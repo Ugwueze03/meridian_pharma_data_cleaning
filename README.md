@@ -73,7 +73,7 @@ back to one of the nine tasks in that brief.
 
 ## Dashboard Summary
 
-See `dashboard/meridian_dashboard.pdf`. Key figures:
+See [dashboard/meridian_dashboard.pdf](dashboard/meridian_dashboard.pdf). Key figures:
 
 - **Total revenue:** $41.85M across all orders
 - **Revenue by region (region_clean):** East 26.79% · North 25.35% · South 24.96% · West 22.90%
