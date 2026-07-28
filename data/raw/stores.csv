@@ -1,0 +1,25 @@
+store_id,store_name,city,state,region,opened_date
+DC001,Minneapolis Distribution Center,Minneapolis,MN,North,2019-05-06
+DC002,Milwaukee Distribution Center,Milwaukee,WI,North,2007-07-02
+DC003,Fargo Distribution Center,Fargo,ND,North,2005-07-24
+DC004,Sioux Falls Distribution Center,Sioux Falls,SD,North,2021-08-19
+DC005,Billings Distribution Center,Billings,MT,North,2011-03-04
+DC006,Minneapolis Distribution Center,Minneapolis,MN,North,2010-06-30
+DC007,Dallas Distribution Center,Dallas,TX,South,2010-01-03
+DC008,Atlanta Distribution Center,Atlanta,GA,South,2008-02-18
+DC009,Tampa Distribution Center,Tampa,FL,South,2021-07-09
+DC010,Birmingham Distribution Center,Birmingham,AL,South,2007-04-20
+DC011,New Orleans Distribution Center,New Orleans,LA,South,2020-03-06
+DC012,Dallas Distribution Center,Dallas,TX,South,2021-08-12
+DC013,Albany Distribution Center,Albany,NY,East,2017-03-26
+DC014,Newark Distribution Center,Newark,NJ,East,2006-12-14
+DC015,Philadelphia Distribution Center,Philadelphia,PA,East,2018-03-31
+DC016,Boston Distribution Center,Boston,MA,East,2014-06-19
+DC017,Hartford Distribution Center,Hartford,CT,East,2005-09-18
+DC018,Albany Distribution Center,Albany,NY,East,2005-09-02
+DC019,Sacramento Distribution Center,Sacramento,CA,West,2007-02-07
+DC020,Seattle Distribution Center,Seattle,WA,West,2009-11-27
+DC021,Portland Distribution Center,Portland,OR,West,2010-03-21
+DC022,Phoenix Distribution Center,Phoenix,AZ,West,2016-05-02
+DC023,Denver Distribution Center,Denver,CO,West,2018-07-03
+DC024,Sacramento Distribution Center,Sacramento,CA,West,2005-08-06

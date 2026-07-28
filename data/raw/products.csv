@@ -1,0 +1,151 @@
+product_id,product_name,category,unit_price,requires_refrigeration
+PRD0001,Amoxiclav 5mg/mL,Vaccines,115.82,FALSE
+PRD0002,Dermacort 100mg,Respiratory,172.3,FALSE
+PRD0003,Clopidex 1000IU,Pain Management,72.4,FALSE
+PRD0004,Prednizone 100mg,Vaccines,27.44,FALSE
+PRD0005,Analgex 5mg/mL,Respiratory,143.43,TRUE
+PRD0006,Cephadex 250mg,Analgesics,140.22,FALSE
+PRD0007,Neurotab 1000IU,Vaccines,82.58,FALSE
+PRD0008,Metopranol 1000IU,Cardiovascular,87.17,FALSE
+PRD0009,Bronchaid 500mg,Analgesics,38.6,FALSE
+PRD0010,Simvacor 250mg,Cardiovascular,6.66,FALSE
+PRD0011,Statinol 5mg/mL,Respiratory,190.23,TRUE
+PRD0012,Bronchaid 5mg/mL,Vaccines,114.28,FALSE
+PRD0013,Loratine 10mg,Cardiovascular,202.19,FALSE
+PRD0014,Neurotab 20mg,Endocrine/Diabetes,23.8,TRUE
+PRD0015,Bronchaid 250mg,Antibiotics,31.62,FALSE
+PRD0016,Glucoferin 50mg,Respiratory,191.36,TRUE
+PRD0017,Warfaset 250mg,Respiratory,191.07,FALSE
+PRD0018,Lisinix 500mg,Analgesics,211.58,FALSE
+PRD0019,Glucoferin 5mg/mL,Cardiovascular,188.65,FALSE
+PRD0020,Ferronova 1000IU,Oncology Support,7.41,TRUE
+PRD0021,Bronchaid 5mg/mL,Respiratory,92.86,TRUE
+PRD0022,Analgex 10mg,Respiratory,35.83,FALSE
+PRD0023,Neurotab 100mg,Endocrine/Diabetes,138.23,TRUE
+PRD0024,Azithrocin 10mg,Oncology Support,87.52,FALSE
+PRD0025,Cardiozan 50mg,Gastrointestinal,79.83,TRUE
+PRD0026,Cephadex 10mg,Gastrointestinal,173.51,FALSE
+PRD0027,Statinol 250mg,Vaccines,38.21,TRUE
+PRD0028,Clopidex 20mg,Endocrine/Diabetes,98.85,TRUE
+PRD0029,Statinol 1000IU,Analgesics,203.27,FALSE
+PRD0030,Pantonex 50mg,Analgesics,101.78,TRUE
+PRD0031,Neurotab 50mg,Dermatology,30.67,FALSE
+PRD0032,Cephadex 1000IU,Oncology Support,206.97,FALSE
+PRD0033,Glucoferin 100mg,Endocrine/Diabetes,49.71,FALSE
+PRD0034,Clopidex 5mg/mL,Ophthalmic,69.78,FALSE
+PRD0035,Amoxiclav 1000IU,Endocrine/Diabetes,236.05,FALSE
+PRD0036,Loratine 100mg,Respiratory,191.05,FALSE
+PRD0037,Prednizone 1000IU,Oncology Support,226.8,TRUE
+PRD0038,Ferronova 250mg,Respiratory,222.91,TRUE
+PRD0039,Omeprazix 5mg/mL,Cardiovascular,41.02,FALSE
+PRD0040,Amoxiclav 500mg,Oncology Support,179.3,FALSE
+PRD0041,Amoxiclav 50mg,Antibiotics,74.92,FALSE
+PRD0042,Dermacort 250mg,Dermatology,34.49,TRUE
+PRD0043,Simvacor 5mg/mL,Cardiovascular,154.31,TRUE
+PRD0044,Pantonex 100mg,Oncology Support,142.63,FALSE
+PRD0045,Dermacort 5mg/mL,Dermatology,7.03,FALSE
+PRD0046,Lisinix 5mg/mL,Endocrine/Diabetes,105.44,TRUE
+PRD0047,Dermacort 10mg,Antibiotics,157.02,TRUE
+PRD0048,Clopidex 500mg,Dermatology,221.86,TRUE
+PRD0049,Dermacort 500mg,Endocrine/Diabetes,178.36,FALSE
+PRD0050,Hydrocor 1000IU,Cardiovascular,176.43,TRUE
+PRD0051,Warfaset 1000IU,Dermatology,24.49,FALSE
+PRD0052,Warfaset 20mg,Oncology Support,207.39,FALSE
+PRD0053,Warfaset 250mg,Dermatology,122.42,FALSE
+PRD0054,Analgex 250mg,Endocrine/Diabetes,58.91,TRUE
+PRD0055,Cardiozan 20mg,Antibiotics,122.67,FALSE
+PRD0056,Metopranol 500mg,Vitamins & Supplements,107.05,FALSE
+PRD0057,Glucoferin 20mg,Dermatology,163.07,FALSE
+PRD0058,Amoxiclav 10mg,Gastrointestinal,182.31,FALSE
+PRD0059,Analgex 100mg,Respiratory,201.86,FALSE
+PRD0060,Prednizone 500mg,Cardiovascular,47.82,TRUE
+PRD0061,Hydrocor 100mg,Cardiovascular,123.38,TRUE
+PRD0062,Prednizone 100mg,Vaccines,239.86,FALSE
+PRD0063,Omeprazix 50mg,Antibiotics,139.58,FALSE
+PRD0064,Omeprazix 1000IU,Pain Management,230.86,TRUE
+PRD0065,Loratine 10mg,Endocrine/Diabetes,120.88,FALSE
+PRD0066,Clopidex 1000IU,Endocrine/Diabetes,106.81,FALSE
+PRD0067,Lisinix 1000IU,Oncology Support,172.46,FALSE
+PRD0068,Albuterix 5mg/mL,Gastrointestinal,29.13,FALSE
+PRD0069,Analgex 1000IU,Gastrointestinal,54.19,FALSE
+PRD0070,Insulora 250mg,Gastrointestinal,225.75,TRUE
+PRD0071,Bronchaid 250mg,Vitamins & Supplements,189.96,TRUE
+PRD0072,Statinol 50mg,Antibiotics,230.67,FALSE
+PRD0073,Analgex 5mg/mL,Pain Management,68.46,FALSE
+PRD0074,Bronchaid 10mg,Cardiovascular,95.86,TRUE
+PRD0075,Loratine 100mg,Ophthalmic,173.74,FALSE
+PRD0076,Clopidex 100mg,Dermatology,28.95,FALSE
+PRD0077,Cephadex 10mg,Cardiovascular,121.36,TRUE
+PRD0078,Albuterix 5mg/mL,Respiratory,105.62,FALSE
+PRD0079,Pantonex 500mg,Antibiotics,153.34,TRUE
+PRD0080,Dermacort 250mg,Endocrine/Diabetes,78.97,FALSE
+PRD0081,Simvacor 5mg/mL,Oncology Support,47.37,FALSE
+PRD0082,Thermafen 500mg,Dermatology,109.81,TRUE
+PRD0083,Prednizone 10mg,Antibiotics,19.93,TRUE
+PRD0084,Warfaset 250mg,Cardiovascular,40.42,FALSE
+PRD0085,Cardiozan 10mg,Vitamins & Supplements,63.68,FALSE
+PRD0086,Analgex 100mg,Antibiotics,218.7,FALSE
+PRD0087,Hydrocor 5mg/mL,Cardiovascular,40.72,TRUE
+PRD0088,Metforal 10mg,Vitamins & Supplements,54.55,TRUE
+PRD0089,Hydrocor 500mg,Cardiovascular,150.86,FALSE
+PRD0090,Omeprazix 50mg,Dermatology,72.4,TRUE
+PRD0091,Prednizone 1000IU,Antibiotics,175.98,TRUE
+PRD0092,Pantonex 10mg,Gastrointestinal,57.63,FALSE
+PRD0093,Neurotab 1000IU,Pain Management,66.58,TRUE
+PRD0094,Metforal 1000IU,Dermatology,30.93,FALSE
+PRD0095,Neurotab 1000IU,Endocrine/Diabetes,72.24,FALSE
+PRD0096,Clopidex 20mg,Vitamins & Supplements,78.52,FALSE
+PRD0097,Thermafen 100mg,Oncology Support,166.76,FALSE
+PRD0098,Warfaset 20mg,Vaccines,38.66,FALSE
+PRD0099,Glucoferin 50mg,Pain Management,16.05,TRUE
+PRD0100,Thermafen 100mg,Analgesics,36.13,TRUE
+PRD0101,Cardiozan 100mg,Antibiotics,119.36,FALSE
+PRD0102,Amoxiclav 5mg/mL,Ophthalmic,215.21,FALSE
+PRD0103,Dermacort 1000IU,Gastrointestinal,124.22,FALSE
+PRD0104,Neurotab 100mg,Ophthalmic,165.96,TRUE
+PRD0105,Neurotab 50mg,Oncology Support,220.36,FALSE
+PRD0106,Simvacor 50mg,Pain Management,22.39,FALSE
+PRD0107,Cardiozan 20mg,Cardiovascular,140.4,TRUE
+PRD0108,Metopranol 1000IU,Oncology Support,29.96,FALSE
+PRD0109,Warfaset 1000IU,Endocrine/Diabetes,119.42,FALSE
+PRD0110,Lisinix 20mg,Endocrine/Diabetes,237.89,TRUE
+PRD0111,Thermafen 5mg/mL,Vitamins & Supplements,83.5,FALSE
+PRD0112,Clopidex 5mg/mL,Gastrointestinal,160.95,FALSE
+PRD0113,Insulora 50mg,Gastrointestinal,176.91,FALSE
+PRD0114,Ferronova 10mg,Dermatology,122.24,FALSE
+PRD0115,Insulora 100mg,Cardiovascular,102.09,FALSE
+PRD0116,Omeprazix 20mg,Endocrine/Diabetes,227.68,FALSE
+PRD0117,Dermacort 100mg,Respiratory,90.73,FALSE
+PRD0118,Pantonex 100mg,Ophthalmic,113.75,FALSE
+PRD0119,Glucoferin 100mg,Antibiotics,39.29,TRUE
+PRD0120,Metforal 20mg,Vitamins & Supplements,91.06,FALSE
+PRD0121,Bronchaid 5mg/mL,Respiratory,231.51,FALSE
+PRD0122,Cephadex 1000IU,Oncology Support,18.49,FALSE
+PRD0123,Analgex 20mg,Vitamins & Supplements,236.61,FALSE
+PRD0124,Cephadex 500mg,Gastrointestinal,45.26,FALSE
+PRD0125,Glucoferin 500mg,Respiratory,149.25,FALSE
+PRD0126,Amoxiclav 50mg,Respiratory,35.6,TRUE
+PRD0127,Bronchaid 20mg,Cardiovascular,116.1,FALSE
+PRD0128,Insulora 20mg,Antibiotics,123.35,TRUE
+PRD0129,Lisinix 5mg/mL,Analgesics,171.21,FALSE
+PRD0130,Albuterix 1000IU,Gastrointestinal,40.15,TRUE
+PRD0131,Analgex 5mg/mL,Oncology Support,31.12,FALSE
+PRD0132,Lisinix 20mg,Cardiovascular,115.18,FALSE
+PRD0133,Clopidex 500mg,Dermatology,216.9,FALSE
+PRD0134,Metopranol 50mg,Endocrine/Diabetes,26.01,FALSE
+PRD0135,Cephadex 10mg,Cardiovascular,148.62,FALSE
+PRD0136,Simvacor 5mg/mL,Vitamins & Supplements,5.82,FALSE
+PRD0137,Dermacort 10mg,Cardiovascular,60.23,FALSE
+PRD0138,Warfaset 10mg,Vaccines,105.95,FALSE
+PRD0139,Warfaset 5mg/mL,Endocrine/Diabetes,18.24,FALSE
+PRD0140,Azithrocin 100mg,Endocrine/Diabetes,180.3,TRUE
+PRD0141,Insulora 10mg,Respiratory,106.53,FALSE
+PRD0142,Prednizone 20mg,Ophthalmic,15.65,FALSE
+PRD0143,Omeprazix 10mg,Antibiotics,205.5,TRUE
+PRD0144,Ferronova 250mg,Gastrointestinal,190.91,FALSE
+PRD0145,Metforal 5mg/mL,Endocrine/Diabetes,92.02,FALSE
+PRD0146,Bronchaid 500mg,Respiratory,116.28,FALSE
+PRD0147,Cephadex 10mg,Dermatology,123.59,FALSE
+PRD0148,Azithrocin 5mg/mL,Analgesics,127.25,FALSE
+PRD0149,Albuterix 1000IU,Oncology Support,233.51,FALSE
+PRD0150,Prednizone 1000IU,Cardiovascular,124.38,FALSE

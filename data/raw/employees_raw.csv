@@ -1,0 +1,801 @@
+employee_id,first_name,last_name,email,store_id,role,hire_date,salary
+EMP0001,Pamela,Sanchez,PamelaSanchez@meridianpharma.com,DC023,Logistics Coordinator,2016-06-21,58418.94
+EMP0002,James,Lee,JamesLee@meridianpharma.com,DC011,Store Manager,2015-09-29,62924.47
+EMP0003,Susan,Lopez,SusanLopez@meridianpharma.com,DC012,Pharmacist Liaison,2020-10-08,69751.09
+EMP0004,Ryan,Morgan,RyanMorgan@meridianpharma.com,DC013,Cashier,2020-03-11,34294.05
+EMP0005,George,Kelly,GeorgeKelly@meridianpharma.com,DC003,Sales Associate,2021-06-01,48347.75
+EMP0006,David,Robinson,DavidRobinson@meridianpharma.com,DC013,Store Manager,2019-02-01,72929.29
+EMP0007,Deborah,Rivera,DeborahRivera@meridianpharma.com,DC009,Cashier,2020-10-31,38600.73
+EMP0008,Ashley,Lee,AshleyLee@meridianpharma.com,DC009,Shift Supervisor,2021-09-05,45284.45
+EMP0009,Linda,Robinson,LindaRobinson@meridianpharma.com,DC011,Logistics Coordinator,2017-01-01,50643.63
+EMP0010,Larry,Green,LarryGreen@meridianpharma.com,DC016,Logistics Coordinator,2023-12-03,67865.32
+EMP0011,Kimberly,Moore,KimberlyMoore@meridianpharma.com,DC018,Store Manager,2022-05-18,71713.15
+EMP0012,Rebecca,Campbell,RebeccaCampbell@meridianpharma.com,DC005,Account Representative,2015-01-08,67985.95
+EMP0013,Karen,Lee,KarenLee@meridianpharma.com,DC014,Cashier,2018-04-26,35408.4
+EMP0014,Anna,Allen,AnnaAllen@meridianpharma.com,DC001,Cashier,2021-08-24,41748.33
+EMP0015,Samuel,Baker,SamuelBaker@meridianpharma.com,DC014,Inventory Clerk,2019-02-02,33194.3
+EMP0016,Patrick,King,PatrickKing@meridianpharma.com,DC006,Cashier,2023-10-06,38478.78
+EMP0017,Nicholas,Cox,NicholasCox@meridianpharma.com,DC012,Inventory Clerk,2020-01-19,46165.27
+EMP0018,James,Kim,JamesKim@meridianpharma.com,DC001,Cashier,2024-06-02,35173.56
+EMP0019,Michelle,Walker,MichelleWalker@meridianpharma.com,DC019,Cashier,2014-12-17,39822.04
+EMP0020,Jonathan,Taylor,JonathanTaylor@meridianpharma.com,DC016,Inventory Clerk,2016-12-21,40352.75
+EMP0021,Margaret,Cooper,MargaretCooper@meridianpharma.com,DC023,Shift Supervisor,2021-12-30,45077.73
+EMP0022,Christine,Mitchell,ChristineMitchell@meridianpharma.com,DC017,Account Representative,2015-05-11,57142.78
+EMP0023,Robert,Ramos,RobertRamos@meridianpharma.com,DC019,Shift Supervisor,2014-01-30,41117.84
+EMP0024,Sandra,Rodriguez,SandraRodriguez@meridianpharma.com,DC011,Cashier,2019-10-07,33598.86
+EMP0025,Margaret,Cooper,MargaretCooper@meridianpharma.com,DC019,Account Representative,2016-09-22,68601.62
+EMP0026,Matthew,Gonzalez,MatthewGonzalez@meridianpharma.com,DC014,Pharmacist Liaison,2018-10-01,73547.55
+EMP0027,Michael,Gonzalez,MichaelGonzalez@meridianpharma.com,DC024,Pharmacist Liaison,2022-12-24,85217.32
+EMP0028,Matthew,Morgan,MatthewMorgan@meridianpharma.com,DC014,Inventory Clerk,2017-02-14,39464.87
+EMP0029,Elizabeth,Cruz,ElizabethCruz@meridianpharma.com,DC018,Cashier,2014-07-27,38817.03
+EMP0030,Mary,Lopez,MaryLopez@meridianpharma.com,DC008,Inventory Clerk,2018-07-23,39779.0
+EMP0031,Rebecca,Davis,RebeccaDavis@meridianpharma.com,DC001,Logistics Coordinator,2016-12-22,68108.32
+EMP0032,Andrew,Diaz,AndrewDiaz@meridianpharma.com,DC024,Account Representative,2015-09-27,55904.32
+EMP0033,Linda,Howard,LindaHoward@meridianpharma.com,DC002,Pharmacist Liaison,2014-08-23,64198.69
+EMP0034,Anna,Lee,AnnaLee@meridianpharma.com,DC017,Cashier,2023-07-20,32941.39
+EMP0035,Frank,Walker,FrankWalker@meridianpharma.com,DC019,Shift Supervisor,2020-06-29,49729.84
+EMP0036,Sharon,Howard,SharonHoward@meridianpharma.com,DC011,Store Manager,2016-04-16,73739.48
+EMP0037,Kimberly,Gomez,KimberlyGomez@meridianpharma.com,DC021,Store Manager,2019-02-16,65325.02
+EMP0038,Elizabeth,Johnson,ElizabethJohnson@meridianpharma.com,DC019,Cashier,2014-10-28,37374.19
+EMP0039,Thomas,Hall,ThomasHall@meridianpharma.com,DC008,Pharmacist Liaison,2017-03-13,66985.64
+EMP0040,Raymond,Hill,RaymondHill@meridianpharma.com,DC021,Sales Associate,2021-06-28,59071.3
+EMP0041,Gregory,Wilson,GregoryWilson@meridianpharma.com,DC005,Store Manager,2015-04-18,78975.16
+EMP0042,Karen,Wright,KarenWright@meridianpharma.com,DC007,Pharmacist Liaison,2016-04-13,80706.18
+EMP0043,Nicholas,Morales,NicholasMorales@meridianpharma.com,DC002,Cashier,2021-02-11,35937.05
+EMP0044,James,Nelson,JamesNelson@meridianpharma.com,DC021,Store Manager,2015-10-24,75441.3
+EMP0045,Edward,Bailey,EdwardBailey@meridianpharma.com,DC999,Inventory Clerk,2020-02-13,33641.78
+EMP0046,Stephen,Jackson,StephenJackson@meridianpharma.com,DC002,Store Manager,2018-02-02,79195.76
+EMP0047,Jennifer,Rivera,JenniferRivera@meridianpharma.com,DC008,Cashier,2017-12-19,40429.46
+EMP0048,Jason,Richardson,JasonRichardson@meridianpharma.com,DC008,Inventory Clerk,2024-12-12,44068.46
+EMP0049,Jason,Brown,JasonBrown@meridianpharma.com,DC011,Logistics Coordinator,2022-12-30,62899.11
+EMP0050,Ashley,Wright,AshleyWright@meridianpharma.com,DC023,Cashier,2018-04-16,41589.3
+EMP0051,Mark,Sanchez,MarkSanchez@meridianpharma.com,DC015,Pharmacist Liaison,2017-06-04,84151.89
+EMP0052,Mark,Brown,MarkBrown@meridianpharma.com,DC013,Pharmacist Liaison,2017-02-15,85286.74
+EMP0053,Emily,Hall,EmilyHall@meridianpharma.com,DC013,Pharmacist Liaison,2024-07-14,63614.85
+EMP0054,Kimberly,Thompson,KimberlyThompson@meridianpharma.com,DC009,Sales Associate,2015-03-21,55057.6
+EMP0055,Kenneth,Parker,KennethParker@meridianpharma.com,DC017,Cashier,2018-04-27,41933.76
+EMP0056,Jennifer,Parker,JenniferParker@meridianpharma.com,,Shift Supervisor,2018-01-31,47044.84
+EMP0057,Kevin,Richardson,KevinRichardson@meridianpharma.com,DC004,Store Manager,2019-09-09,65160.97
+EMP0058,Rebecca,Nguyen,RebeccaNguyen@meridianpharma.com,DC007,Logistics Coordinator,2021-06-16,68389.38
+EMP0059,Daniel,Ward,DanielWard@meridianpharma.com,DC013,Sales Associate,2017-05-29,49421.83
+EMP0060,Justin,Cox,JustinCox@meridianpharma.com,DC015,Account Representative,2018-12-17,66274.64
+EMP0061,Jack,Perez,JackPerez@meridianpharma.com,DC010,Pharmacist Liaison,2015-01-18,84097.17
+EMP0062,Frank,Flores,FrankFlores@meridianpharma.com,DC007,Inventory Clerk,2014-04-11,33780.82
+EMP0063,Brandon,Martinez,BrandonMartinez@meridianpharma.com,DC021,Shift Supervisor,2022-01-21,51405.03
+EMP0064,Ashley,Jackson,AshleyJackson@meridianpharma.com,DC001,Cashier,2022-09-24,35956.84
+EMP0065,Carolyn,Gutierrez,CarolynGutierrez@meridianpharma.com,DC018,Shift Supervisor,2024-04-15,53905.13
+EMP0066,Kathleen,Ortiz,KathleenOrtiz@meridianpharma.com,DC020,Pharmacist Liaison,2024-08-27,82460.98
+EMP0067,Patrick,Cook,PatrickCook@meridianpharma.com,DC018,Account Representative,2024-01-23,55248.02
+EMP0068,Cynthia,King,CynthiaKing@meridianpharma.com,DC021,Store Manager,2022-08-03,76308.66
+EMP0069,Donald,Scott,DonaldScott@meridianpharma.com,DC023,Store Manager,2016-08-18,64266.82
+EMP0070,Brenda,Hernandez,BrendaHernandez@meridianpharma.com,DC008,Logistics Coordinator,2021-10-13,52401.95
+EMP0071,Sharon,Evans,SharonEvans@meridianpharma.com,DC015,Logistics Coordinator,2014-09-13,53498.74
+EMP0072,Justin,Williams,JustinWilliams@meridianpharma.com,DC019,Logistics Coordinator,2019-05-08,49419.69
+EMP0073,Stephanie,Turner,StephanieTurner@meridianpharma.com,DC024,Shift Supervisor,2019-06-23,43559.49
+EMP0074,Patricia,Roberts,PatriciaRoberts@meridianpharma.com,DC022,Logistics Coordinator,2022-02-14,52650.41
+EMP0075,Thomas,Richardson,ThomasRichardson@meridianpharma.com,DC013,Sales Associate,2014-12-10,55898.04
+EMP0076,Kathleen,White,KathleenWhite@meridianpharma.com,DC013,Pharmacist Liaison,2016-05-16,74676.71
+EMP0077,Timothy,Scott,TimothyScott@meridianpharma.com,DC014,Store Manager,2023-05-13,
+EMP0078,Brenda,Miller,BrendaMiller@meridianpharma.com,DC012,Shift Supervisor,2021-04-16,41078.77
+EMP0079,Jennifer,Brown,JenniferBrown@meridianpharma.com,DC007,Sales Associate,2020-12-19,46973.36
+EMP0080,Debra,Anderson,DebraAnderson@meridianpharma.com,DC007,Account Representative,2021-11-05,57320.8
+EMP0081,Helen,Cox,HelenCox@meridianpharma.com,DC023,Cashier,2022-09-21,40923.19
+EMP0082,Susan,Howard,SusanHoward@meridianpharma.com,DC0,Logistics Coordinator,2018-06-13,68411.85
+EMP0083,Nicole,Young,NicoleYoung@meridianpharma.com,DC010,Cashier,2022-12-06,42996.44
+EMP0084,Brian,Morgan,BrianMorgan@meridianpharma.com,DC012,Cashier,2019-09-04,
+EMP0085,Sharon,Morales,SharonMorales@meridianpharma.com,DC012,Account Representative,2021-12-07,55116.36
+EMP0086,Eric,Wright,EricWright@meridianpharma.com,DC018,Account Representative,2019-03-20,61149.52
+EMP0087,Paul,Adams,PaulAdams@meridianpharma.com,DC003,Store Manager,2023-11-21,68529.09
+EMP0088,Larry,Ward,LarryWard@meridianpharma.com,DC011,Sales Associate,2019-07-18,59687.34
+EMP0089,Margaret,Rivera,MargaretRivera@meridianpharma.com,DC011,Store Manager,2023-11-15,71988.49
+EMP0090,Pamela,Johnson,PamelaJohnson@meridianpharma.com,DC007,Cashier,2016-09-15,39672.94
+EMP0091,Donald,Stewart,DonaldStewart@meridianpharma.com,DC016,Account Representative,2022-11-22,52218.14
+EMP0092,Rebecca,Young,RebeccaYoung@meridianpharma.com,DC019,Pharmacist Liaison,2019-04-23,77234.95
+EMP0093,Maria,Peterson,MariaPeterson@meridianpharma.com,DC023,Account Representative,2017-01-14,58396.4
+EMP0094,Patrick,Harris,PatrickHarris@meridianpharma.com,DC024,Inventory Clerk,2016-02-24,36103.65
+EMP0095,Patrick,Ramos,PatrickRamos@meridianpharma.com,DC017,Store Manager,2024-12-30,60192.52
+EMP0096,Sandra,Campbell,SandraCampbell@meridianpharma.com,DC001,Inventory Clerk,2017-01-28,33771.29
+EMP0097,Donna,Taylor,DonnaTaylor@meridianpharma.com,DC016,Cashier,2023-10-15,30754.54
+EMP0098,Amy,Cruz,AmyCruz@meridianpharma.com,DC002,Store Manager,2024-07-21,78309.01
+EMP0099,William,Phillips,WilliamPhillips@meridianpharma.com,DC019,Sales Associate,2015-09-14,46915.4
+EMP0100,Joshua,Hernandez,JoshuaHernandez@meridianpharma.com,DC004,Logistics Coordinator,2020-10-19,61401.37
+EMP0101,Eric,Carter,EricCarter@meridianpharma.com,DC015,Store Manager,2023-08-25,71806.9
+EMP0102,Larry,Richardson,LarryRichardson@meridianpharma.com,DC024,Cashier,2024-08-17,40210.49
+EMP0103,Kimberly,Hernandez,KimberlyHernandez@meridianpharma.com,DC006,Cashier,2015-10-04,30633.71
+EMP0104,Scott,Stewart,ScottStewart@meridianpharma.com,DC008,Store Manager,2021-12-05,64528.7
+EMP0105,Elizabeth,Robinson,ElizabethRobinson@meridianpharma.com,DC021,Shift Supervisor,2018-10-08,41838.07
+EMP0106,Karen,Wright,KarenWright@meridianpharma.com,DC003,Sales Associate,2015-11-11,58625.84
+EMP0107,Larry,Torres,LarryTorres@meridianpharma.com,DC015,Store Manager,2021-11-06,67379.7
+EMP0108,Brenda,Murphy,BrendaMurphy@meridianpharma.com,DC020,Sales Associate,2023-12-23,52062.92
+EMP0109,Steven,Brown,StevenBrown@meridianpharma.com,DC022,Sales Associate,2022-07-30,56435.52
+EMP0110,Jennifer,Thompson,JenniferThompson@meridianpharma.com,DC021,Account Representative,2024-04-10,57788.64
+EMP0111,Laura,Morales,LauraMorales@meridianpharma.com,DC016,Pharmacist Liaison,2018-07-31,71532.69
+EMP0112,Christopher,Nelson,ChristopherNelson@meridianpharma.com,DC016,Store Manager,2021-06-06,80295.61
+EMP0113,Stephen,Jones,StephenJones@meridianpharma.com,DC011,Store Manager,2017-08-17,60558.93
+EMP0114,Shirley,Smith,ShirleySmith@meridianpharma.com,DC018,Account Representative,2018-08-20,53007.26
+EMP0115,Samantha,Murphy,SamanthaMurphy@meridianpharma.com,DC002,Shift Supervisor,2016-12-29,48984.66
+EMP0116,Jeffrey,Morales,JeffreyMorales@meridianpharma.com,DC021,Shift Supervisor,2021-12-17,42555.32
+EMP0117,Stephen,Evans,StephenEvans@meridianpharma.com,DC004,Account Representative,2024-08-15,54357.9
+EMP0118,Angela,Nguyen,AngelaNguyen@meridianpharma.com,DC009,Logistics Coordinator,2023-05-13,59094.74
+EMP0119,Ryan,Peterson,RyanPeterson@meridianpharma.com,DC007,Inventory Clerk,2023-09-10,34102.91
+EMP0120,Sharon,Baker,SharonBaker@meridianpharma.com,DC017,Store Manager,2023-03-15,57861.05
+EMP0121,Nicole,Howard,NicoleHoward@meridianpharma.com,DC016,Inventory Clerk,2019-01-04,40501.62
+EMP0122,Stephen,Cooper,StephenCooper@meridianpharma.com,DC011,Shift Supervisor,2024-12-31,51423.85
+EMP0123,Sandra,Evans,SandraEvans@meridianpharma.com,DC024,Account Representative,2021-11-28,71351.73
+EMP0124,Gregory,Martin,GregoryMartin@meridianpharma.com,DC002,Inventory Clerk,2019-08-20,46327.08
+EMP0125,Richard,Cruz,RichardCruz@meridianpharma.com,DC015,Sales Associate,2022-02-07,46823.63
+EMP0126,Karen,Martinez,KarenMartinez@meridianpharma.com,DC009,Pharmacist Liaison,2020-12-27,80841.05
+EMP0127,Kevin,Morgan,KevinMorgan@meridianpharma.com,DC011,Account Representative,2023-10-14,63400.69
+EMP0128,Donald,Torres,DonaldTorres@meridianpharma.com,DC024,Cashier,2018-11-13,42927.06
+EMP0129,Raymond,Gonzalez,RaymondGonzalez@meridianpharma.com,DC023,Store Manager,2024-02-18,58488.94
+EMP0130,Linda,Nguyen,LindaNguyen@meridianpharma.com,DC014,Inventory Clerk,2016-09-27,40400.42
+EMP0131,Lisa,Perez,LisaPerez@meridianpharma.com,DC020,Logistics Coordinator,2020-12-13,63167.63
+EMP0132,Justin,Jackson,JustinJackson@meridianpharma.com,DC021,Store Manager,2019-02-26,
+EMP0133,Kathleen,Torres,KathleenTorres@meridianpharma.com,DC006,Cashier,2018-12-15,42509.97
+EMP0134,Joshua,Diaz,JoshuaDiaz@meridianpharma.com,DC015,Store Manager,2016-03-26,81585.09
+EMP0135,Susan,Walker,SusanWalker@meridianpharma.com,DC012,Store Manager,2021-11-04,64826.49
+EMP0136,Gregory,Gomez,GregoryGomez@meridianpharma.com,DC019,Sales Associate,2024-03-18,55236.6
+EMP0137,Andrew,Robinson,AndrewRobinson@meridianpharma.com,DC012,Shift Supervisor,2021-02-20,43077.67
+EMP0138,Patrick,Moore,PatrickMoore@meridianpharma.com,DC021,Sales Associate,2017-06-19,58552.71
+EMP0139,George,Taylor,GeorgeTaylor@meridianpharma.com,DC010,Pharmacist Liaison,2022-05-20,73661.53
+EMP0140,Brenda,Campbell,BrendaCampbell@meridianpharma.com,DC009,Inventory Clerk,2016-11-18,45626.77
+EMP0141,Donna,Baker,DonnaBaker@meridianpharma.com,DC015,Cashier,2015-07-31,40102.31
+EMP0142,Frank,Gomez,FrankGomez@meridianpharma.com,DC018,Pharmacist Liaison,2015-01-05,
+EMP0143,Jonathan,Thomas,JonathanThomas@meridianpharma.com,DC022,Store Manager,2020-07-22,66868.41
+EMP0144,Deborah,Wilson,DeborahWilson@meridianpharma.com,DC016,Sales Associate,2020-12-12,60293.07
+EMP0145,Brandon,Lewis,BrandonLewis@meridianpharma.com,DC021,Account Representative,2024-03-13,66818.0
+EMP0146,Joseph,Moore,JosephMoore@meridianpharma.com,DC002,Store Manager,2019-07-11,60563.67
+EMP0147,Jonathan,Moore,JonathanMoore@meridianpharma.com,DC012,Logistics Coordinator,2020-08-02,64368.06
+EMP0148,Sharon,Gonzalez,SharonGonzalez@meridianpharma.com,DC020,Logistics Coordinator,2024-07-13,68615.89
+EMP0149,Deborah,Ramirez,DeborahRamirez@meridianpharma.com,DC008,Pharmacist Liaison,2015-02-11,88306.03
+EMP0150,Samuel,Rivera,SamuelRivera@meridianpharma.com,DC009,Shift Supervisor,2024-11-09,41959.53
+EMP0151,Ryan,Lopez,RyanLopez@meridianpharma.com,DC021,Sales Associate,2014-07-27,58519.66
+EMP0152,Thomas,Reed,ThomasReed@meridianpharma.com,DC018,Shift Supervisor,2020-07-29,43502.4
+EMP0153,Kevin,Jackson,KevinJackson@meridianpharma.com,DC020,Sales Associate,2017-02-09,59822.99
+EMP0154,Thomas,Cooper,ThomasCooper@meridianpharma.com,DC006,Cashier,2021-05-31,41517.24
+EMP0155,Melissa,Walker,MelissaWalker@meridianpharma.com,DC001,Inventory Clerk,2016-12-22,33865.25
+EMP0156,Anna,Anderson,AnnaAnderson@meridianpharma.com,DC016,Account Representative,2022-09-22,59579.53
+EMP0157,Cynthia,Cook,CynthiaCook@meridianpharma.com,DC020,Sales Associate,2022-02-26,58454.73
+EMP0158,Eric,Hill,EricHill@meridianpharma.com,DC001,Sales Associate,2019-05-16,59620.83
+EMP0159,Susan,Morales,SusanMorales@meridianpharma.com,DC015,Cashier,2024-02-01,31617.96
+EMP0160,William,Taylor,WilliamTaylor@meridianpharma.com,DC021,Pharmacist Liaison,2018-04-10,88660.86
+EMP0161,Ryan,Cook,RyanCook@meridianpharma.com,DC004,Cashier,2023-07-26,38849.38
+EMP0162,Stephen,Ramirez,StephenRamirez@meridianpharma.com,DC008,Logistics Coordinator,2017-10-20,66096.61
+EMP0163,Catherine,Gonzalez,CatherineGonzalez@meridianpharma.com,DC011,Store Manager,2018-03-14,80495.5
+EMP0164,Jacob,Rodriguez,JacobRodriguez@meridianpharma.com,DC003,Cashier,2018-11-04,31816.71
+EMP0165,Thomas,Bailey,ThomasBailey@meridianpharma.com,DC018,Pharmacist Liaison,2021-07-07,66065.79
+EMP0166,Debra,Diaz,DebraDiaz@meridianpharma.com,DC024,Sales Associate,2024-11-10,49434.86
+EMP0167,Susan,Kelly,SusanKelly@meridianpharma.com,DC005,Account Representative,2016-07-07,69939.32
+EMP0168,Pamela,Mitchell,PamelaMitchell@meridianpharma.com,DC009,Shift Supervisor,2023-01-20,47008.9
+EMP0169,Samantha,Ward,SamanthaWard@meridianpharma.com,DC018,Sales Associate,2020-10-30,61109.33
+EMP0170,Paul,Brown,PaulBrown@meridianpharma.com,DC023,Store Manager,2024-05-02,
+EMP0171,Charles,Reed,CharlesReed@meridianpharma.com,DC003,Inventory Clerk,2022-04-24,41792.8
+EMP0172,Maria,Ortiz,MariaOrtiz@meridianpharma.com,DC014,Account Representative,2017-10-28,55210.69
+EMP0173,Carol,Reed,CarolReed@meridianpharma.com,DC002,Inventory Clerk,2015-10-07,43448.05
+EMP0174,David,Wright,DavidWright@meridianpharma.com,DC014,Account Representative,2020-10-22,61287.64
+EMP0175,Shirley,Anderson,ShirleyAnderson@meridianpharma.com,DC004,Store Manager,2021-08-09,73947.97
+EMP0176,Debra,Flores,DebraFlores@meridianpharma.com,DC013,Sales Associate,2014-02-01,47920.5
+EMP0177,Sarah,Allen,SarahAllen@meridianpharma.com,DC004,Sales Associate,2019-07-31,57795.66
+EMP0178,Timothy,Morgan,TimothyMorgan@meridianpharma.com,DC017,Pharmacist Liaison,2014-10-23,73184.14
+EMP0179,Laura,Williams,LauraWilliams@meridianpharma.com,DC003,Pharmacist Liaison,2020-06-16,74018.46
+EMP0180,Katherine,Turner,KatherineTurner@meridianpharma.com,DC013,Sales Associate,2024-11-01,50110.78
+EMP0181,Samantha,Collins,SamanthaCollins@meridianpharma.com,DC012,Cashier,2018-11-24,41240.5
+EMP0182,Nicole,Phillips,NicolePhillips@meridianpharma.com,DC013,Store Manager,2022-05-13,65880.42
+EMP0183,Nancy,Martinez,NancyMartinez@meridianpharma.com,DC004,Shift Supervisor,2024-02-28,52718.95
+EMP0184,Samuel,Jackson,SamuelJackson@meridianpharma.com,DC005,Store Manager,2016-03-19,61929.28
+EMP0185,Christine,Martinez,ChristineMartinez@meridianpharma.com,DC021,Account Representative,2019-03-16,67957.42
+EMP0186,Cynthia,Reed,CynthiaReed@meridianpharma.com,DC020,Pharmacist Liaison,2023-09-10,88048.2
+EMP0187,Jeffrey,Rodriguez,JeffreyRodriguez@meridianpharma.com,DC021,Store Manager,2022-12-06,64337.23
+EMP0188,Nicholas,Martinez,NicholasMartinez@meridianpharma.com,DC015,Sales Associate,2014-08-22,50911.02
+EMP0189,Samuel,Lopez,SamuelLopez@meridianpharma.com,DC017,Logistics Coordinator,2019-03-11,61080.69
+EMP0190,Jack,Garcia,JackGarcia@meridianpharma.com,DC019,Shift Supervisor,2017-08-09,49902.35
+EMP0191,Linda,Edwards,LindaEdwards@meridianpharma.com,DC011,Cashier,2019-08-29,38741.2
+EMP0192,Raymond,Cruz,RaymondCruz@meridianpharma.com,DC017,Inventory Clerk,2018-01-30,38239.43
+EMP0193,Jason,Baker,JasonBaker@meridianpharma.com,DC002,Pharmacist Liaison,2014-09-27,71438.99
+EMP0194,Stephanie,Torres,StephanieTorres@meridianpharma.com,DC022,Inventory Clerk,2017-09-27,34262.5
+EMP0195,Brian,Flores,BrianFlores@meridianpharma.com,DC023,Logistics Coordinator,2015-06-13,61379.34
+EMP0196,Michelle,Bailey,MichelleBailey@meridianpharma.com,DC011,Inventory Clerk,2021-07-07,42743.64
+EMP0197,Rachel,Ortiz,RachelOrtiz@meridianpharma.com,DC022,Logistics Coordinator,2019-09-14,56645.11
+EMP0198,Lisa,Ramirez,LisaRamirez@meridianpharma.com,DC016,Shift Supervisor,2016-07-16,56399.62
+EMP0199,Donna,Gonzalez,DonnaGonzalez@meridianpharma.com,DC018,Sales Associate,2021-06-04,50329.11
+EMP0200,Thomas,Kim,ThomasKim@meridianpharma.com,DC006,Inventory Clerk,2023-04-29,42607.34
+EMP0201,Nancy,Cruz,NancyCruz@meridianpharma.com,DC012,Shift Supervisor,2024-11-15,47257.07
+EMP0202,Maria,Edwards,MariaEdwards@meridianpharma.com,DC008,Store Manager,2024-10-30,77045.25
+EMP0203,Matthew,Mitchell,MatthewMitchell@meridianpharma.com,DC019,Account Representative,2019-03-07,68277.51
+EMP0204,Nicholas,Ortiz,NicholasOrtiz@meridianpharma.com,DC006,Shift Supervisor,2022-12-26,49896.71
+EMP0205,Michael,Morris,MichaelMorris@meridianpharma.com,DC018,Cashier,2021-12-23,41258.24
+EMP0206,Andrew,Hernandez,AndrewHernandez@meridianpharma.com,DC009,Account Representative,2024-02-26,62810.08
+EMP0207,Barbara,Lewis,BarbaraLewis@meridianpharma.com,DC012,Sales Associate,2018-08-27,45169.28
+EMP0208,Donald,Roberts,DonaldRoberts@meridianpharma.com,DC012,Shift Supervisor,2014-04-26,45192.37
+EMP0209,Janet,Nelson,JanetNelson@meridianpharma.com,DC005,Sales Associate,2017-03-21,60896.61
+EMP0210,Sarah,Stewart,SarahStewart@meridianpharma.com,DC001,Cashier,2014-03-19,33824.64
+EMP0211,Stephen,Cox,StephenCox@meridianpharma.com,DC004,Store Manager,2016-08-31,64967.4
+EMP0212,Sharon,Richardson,SharonRichardson@meridianpharma.com,DC004,Account Representative,2020-09-10,63294.75
+EMP0213,Emma,Walker,EmmaWalker@meridianpharma.com,DC010,Logistics Coordinator,2014-01-07,61780.63
+EMP0214,Sharon,White,SharonWhite@meridianpharma.com,DC003,Pharmacist Liaison,2014-10-05,87593.16
+EMP0215,Nicholas,Peterson,NicholasPeterson@meridianpharma.com,,Sales Associate,2021-02-16,51241.24
+EMP0216,Maria,Williams,MariaWilliams@meridianpharma.com,DC003,Pharmacist Liaison,2016-09-14,81883.17
+EMP0217,Justin,Nelson,JustinNelson@meridianpharma.com,DC012,Pharmacist Liaison,2023-02-15,79548.41
+EMP0218,Rachel,Reyes,RachelReyes@meridianpharma.com,DC016,Inventory Clerk,2023-02-06,34990.74
+EMP0219,Ryan,Jones,RyanJones@meridianpharma.com,DC002,Shift Supervisor,2023-12-08,40639.35
+EMP0220,Shirley,Gomez,ShirleyGomez@meridianpharma.com,DC018,Account Representative,2016-11-03,52631.85
+EMP0221,Andrew,Rivera,AndrewRivera@meridianpharma.com,DC002,Pharmacist Liaison,2017-01-24,66123.9
+EMP0222,Rebecca,Cruz,RebeccaCruz@meridianpharma.com,DC013,Pharmacist Liaison,2024-12-02,67738.57
+EMP0223,Deborah,Gutierrez,DeborahGutierrez@meridianpharma.com,DC003,Logistics Coordinator,2014-11-20,58041.33
+EMP0224,Lisa,Cooper,LisaCooper@meridianpharma.com,DC004,Cashier,2017-09-05,38927.58
+EMP0225,Helen,Diaz,HelenDiaz@meridianpharma.com,DC015,Pharmacist Liaison,2019-01-06,63997.0
+EMP0226,Melissa,Ward,MelissaWard@meridianpharma.com,DC009,Sales Associate,2014-11-04,56415.55
+EMP0227,Shirley,Lee,ShirleyLee@meridianpharma.com,DC005,Account Representative,2014-05-23,54545.01
+EMP0228,Samuel,Campbell,SamuelCampbell@meridianpharma.com,DC019,Sales Associate,2020-10-14,46992.57
+EMP0229,Deborah,Mitchell,DeborahMitchell@meridianpharma.com,DC003,Inventory Clerk,2019-12-09,38158.87
+EMP0230,Emily,Young,EmilyYoung@meridianpharma.com,DC001,Inventory Clerk,2019-08-07,40217.22
+EMP0231,Jessica,King,JessicaKing@meridianpharma.com,DC023,Account Representative,2016-05-28,73122.4
+EMP0232,Gary,Sanchez,GarySanchez@meridianpharma.com,DC003,Account Representative,2015-12-09,71036.8
+EMP0233,Barbara,Green,BarbaraGreen@meridianpharma.com,DC023,Cashier,2020-03-02,37431.36
+EMP0234,Christopher,Thompson,ChristopherThompson@meridianpharma.com,DC017,Shift Supervisor,2015-05-13,56155.43
+EMP0235,Donald,Murphy,DonaldMurphy@meridianpharma.com,,Pharmacist Liaison,2019-03-30,83714.84
+EMP0236,Brandon,Lopez,BrandonLopez@meridianpharma.com,DC013,Account Representative,2019-11-24,60620.48
+EMP0237,Emma,Martinez,EmmaMartinez@meridianpharma.com,DC011,Cashier,2019-01-18,36469.5
+EMP0238,Thomas,Peterson,ThomasPeterson@meridianpharma.com,DC006,Inventory Clerk,2018-11-08,40014.09
+EMP0239,Jessica,Gutierrez,JessicaGutierrez@meridianpharma.com,DC006,Inventory Clerk,2017-08-14,45909.17
+EMP0240,Eric,Torres,EricTorres@meridianpharma.com,DC009,Shift Supervisor,2021-02-14,55681.98
+EMP0241,Benjamin,Hill,BenjaminHill@meridianpharma.com,DC003,Inventory Clerk,2020-08-21,46002.94
+EMP0242,Gregory,Richardson,GregoryRichardson@meridianpharma.com,DC020,Pharmacist Liaison,2023-06-14,86829.78
+EMP0243,Patricia,Hernandez,PatriciaHernandez@meridianpharma.com,DC021,Store Manager,2021-04-21,62817.24
+EMP0244,Samantha,Brown,SamanthaBrown@meridianpharma.com,DC021,Store Manager,2021-03-14,80568.27
+EMP0245,Rachel,Phillips,RachelPhillips@meridianpharma.com,DC003,Sales Associate,2015-10-10,52200.82
+EMP0246,Anthony,Baker,AnthonyBaker@meridianpharma.com,DC011,Pharmacist Liaison,2022-03-27,88489.81
+EMP0247,Rebecca,Taylor,RebeccaTaylor@meridianpharma.com,DC017,Cashier,2017-07-31,33645.9
+EMP0248,Cynthia,Young,CynthiaYoung@meridianpharma.com,DC002,Store Manager,2024-08-08,66942.77
+EMP0249,Ashley,Lee,AshleyLee@meridianpharma.com,DC019,Pharmacist Liaison,2016-02-17,82664.84
+EMP0250,Shirley,Reyes,ShirleyReyes@meridianpharma.com,DC010,Account Representative,2014-04-05,53772.55
+EMP0251,Ryan,Walker,RyanWalker@meridianpharma.com,DC012,Sales Associate,2014-07-27,49320.69
+EMP0252,Christine,Stewart,ChristineStewart@meridianpharma.com,DC001,Cashier,2018-11-01,32287.58
+EMP0253,George,Phillips,GeorgePhillips@meridianpharma.com,DC013,Sales Associate,2020-05-24,54425.07
+EMP0254,Andrew,Martinez,AndrewMartinez@meridianpharma.com,DC015,Store Manager,2023-04-04,81340.36
+EMP0255,Jessica,Taylor,JessicaTaylor@meridianpharma.com,DC013,Pharmacist Liaison,2022-11-30,88457.8
+EMP0256,George,Jackson,GeorgeJackson@meridianpharma.com,DC017,Logistics Coordinator,2019-08-11,50117.17
+EMP0257,Janet,Nelson,JanetNelson@meridianpharma.com,DC017,Account Representative,2015-09-03,64793.66
+EMP0258,Carol,Ward,CarolWard@meridianpharma.com,DC013,Store Manager,2020-08-28,65805.69
+EMP0259,Jonathan,Morales,JonathanMorales@meridianpharma.com,DC010,Account Representative,2023-02-24,52205.2
+EMP0260,Joseph,Turner,JosephTurner@meridianpharma.com,DC024,Sales Associate,2020-09-10,52837.54
+EMP0261,Justin,Kelly,JustinKelly@meridianpharma.com,DC002,Account Representative,2015-11-30,63042.36
+EMP0262,Timothy,Jackson,TimothyJackson@meridianpharma.com,DC008,Sales Associate,2020-06-03,61457.33
+EMP0263,Robert,Cruz,RobertCruz@meridianpharma.com,DC005,Logistics Coordinator,2021-09-29,53439.0
+EMP0264,Brandon,Stewart,BrandonStewart@meridianpharma.com,DC024,Sales Associate,2021-11-30,46713.1
+EMP0265,Carol,Morris,CarolMorris@meridianpharma.com,DC011,Inventory Clerk,2019-02-26,45600.49
+EMP0266,Melissa,King,MelissaKing@meridianpharma.com,DC007,Shift Supervisor,2017-02-16,49130.53
+EMP0267,Joshua,Torres,JoshuaTorres@meridianpharma.com,DC023,Account Representative,2017-07-22,62093.8
+EMP0268,Patrick,Scott,PatrickScott@meridianpharma.com,DC019,Logistics Coordinator,2024-01-18,69197.26
+EMP0269,Charles,Nguyen,CharlesNguyen@meridianpharma.com,DC023,Cashier,2017-11-19,42242.52
+EMP0270,Maria,Morris,MariaMorris@meridianpharma.com,DC018,Store Manager,2024-06-18,71176.03
+EMP0271,Susan,Ward,SusanWard@meridianpharma.com,DC008,Shift Supervisor,2014-07-27,50968.77
+EMP0272,Katherine,Robinson,KatherineRobinson@meridianpharma.com,DC014,Pharmacist Liaison,2022-01-17,75135.26
+EMP0273,Sarah,Smith,SarahSmith@meridianpharma.com,DC006,Logistics Coordinator,2021-04-28,68281.15
+EMP0274,Amy,Sanchez,AmySanchez@meridianpharma.com,DC010,Pharmacist Liaison,2017-03-15,79628.76
+EMP0275,Barbara,Kelly,BarbaraKelly@meridianpharma.com,DC024,Sales Associate,2024-03-29,60970.77
+EMP0276,Daniel,Jones,DanielJones@meridianpharma.com,DC013,Account Representative,2016-02-03,71846.6
+EMP0277,Donna,Jones,DonnaJones@meridianpharma.com,,Cashier,2024-05-30,42985.72
+EMP0278,Samuel,Cooper,SamuelCooper@meridianpharma.com,DC005,Account Representative,2017-01-22,55966.52
+EMP0279,Christopher,Collins,ChristopherCollins@meridianpharma.com,DC023,Inventory Clerk,2014-02-27,43204.83
+EMP0280,Larry,Harris,LarryHarris@meridianpharma.com,DC021,Logistics Coordinator,2023-04-11,57982.38
+EMP0281,Rebecca,Gonzalez,RebeccaGonzalez@meridianpharma.com,DC005,Account Representative,2017-08-18,
+EMP0282,Stephanie,Walker,StephanieWalker@meridianpharma.com,DC009,Pharmacist Liaison,2017-05-21,77985.73
+EMP0283,Kimberly,Campbell,KimberlyCampbell@meridianpharma.com,DC002,Cashier,2019-03-22,34465.76
+EMP0284,Nicholas,Flores,NicholasFlores@meridianpharma.com,DC021,Store Manager,2018-02-14,72428.09
+EMP0285,Sarah,Morris,SarahMorris@meridianpharma.com,DC024,Pharmacist Liaison,2018-08-31,81080.26
+EMP0286,Jonathan,Ramirez,JonathanRamirez@meridianpharma.com,DC022,Cashier,2019-11-23,36229.02
+EMP0287,Elizabeth,Reed,ElizabethReed@meridianpharma.com,DC018,Shift Supervisor,2020-06-03,48778.06
+EMP0288,Eric,Cruz,EricCruz@meridianpharma.com,DC007,Account Representative,2015-01-08,71041.29
+EMP0289,Linda,Collins,LindaCollins@meridianpharma.com,DC014,Account Representative,2020-04-28,53082.68
+EMP0290,Michelle,Williams,MichelleWilliams@meridianpharma.com,DC001,Shift Supervisor,2020-06-26,41151.34
+EMP0291,Carolyn,Rodriguez,CarolynRodriguez@meridianpharma.com,DC002,Cashier,2024-06-21,36548.1
+EMP0292,Lisa,Moore,LisaMoore@meridianpharma.com,DC024,Logistics Coordinator,2018-03-14,69454.99
+EMP0293,Timothy,Carter,TimothyCarter@meridianpharma.com,DC022,Inventory Clerk,2021-04-30,44892.91
+EMP0294,Jonathan,Gomez,JonathanGomez@meridianpharma.com,DC024,Shift Supervisor,2023-05-13,
+EMP0295,Joshua,Reyes,JoshuaReyes@meridianpharma.com,DC018,Logistics Coordinator,2019-12-19,56999.31
+EMP0296,Ryan,Hall,RyanHall@meridianpharma.com,DC007,Cashier,2014-05-12,40799.43
+EMP0297,Robert,Walker,RobertWalker@meridianpharma.com,DC004,Sales Associate,2019-01-03,55079.69
+EMP0298,Michael,Young,MichaelYoung@meridianpharma.com,DC013,Account Representative,2016-08-17,63373.87
+EMP0299,Linda,Moore,LindaMoore@meridianpharma.com,DC010,Shift Supervisor,2023-02-24,55024.73
+EMP0300,Emma,Kim,EmmaKim@meridianpharma.com,DC011,Shift Supervisor,2017-05-21,54364.45
+EMP0301,Eric,Lewis,EricLewis@meridianpharma.com,DC009,Sales Associate,2020-03-30,61463.07
+EMP0302,Daniel,Diaz,DanielDiaz@meridianpharma.com,DC002,Pharmacist Liaison,2024-07-23,79561.89
+EMP0303,Anna,Green,AnnaGreen@meridianpharma.com,DC014,Inventory Clerk,2017-05-13,38288.68
+EMP0304,Jacob,Walker,JacobWalker@meridianpharma.com,DC010,Inventory Clerk,2023-01-14,39470.29
+EMP0305,Jason,Turner,JasonTurner@meridianpharma.com,DC005,Logistics Coordinator,2016-09-21,54476.41
+EMP0306,David,Edwards,DavidEdwards@meridianpharma.com,DC003,Shift Supervisor,2014-07-31,44366.19
+EMP0307,Helen,Garcia,HelenGarcia@meridianpharma.com,DC007,Shift Supervisor,2019-05-18,43386.23
+EMP0308,Joshua,Johnson,JoshuaJohnson@meridianpharma.com,DC007,Cashier,2022-05-18,43194.61
+EMP0309,Ashley,Cox,AshleyCox@meridianpharma.com,DC013,Shift Supervisor,2020-03-11,45240.57
+EMP0310,Kathleen,Morgan,KathleenMorgan@meridianpharma.com,DC010,Store Manager,2018-01-13,70005.03
+EMP0311,Richard,Stewart,RichardStewart@meridianpharma.com,DC011,Shift Supervisor,2018-02-27,45097.57
+EMP0312,Mark,Jackson,MarkJackson@meridianpharma.com,,Logistics Coordinator,2017-04-24,52393.95
+EMP0313,Timothy,Reed,TimothyReed@meridianpharma.com,DC016,Pharmacist Liaison,2016-11-20,82671.04
+EMP0314,Patrick,Morales,PatrickMorales@meridianpharma.com,DC024,Pharmacist Liaison,2015-11-25,66524.93
+EMP0315,Lisa,Cooper,LisaCooper@meridianpharma.com,DC002,Sales Associate,2023-05-30,59609.89
+EMP0316,Debra,Miller,DebraMiller@meridianpharma.com,DC014,Inventory Clerk,2023-06-14,41759.08
+EMP0317,Karen,Johnson,KarenJohnson@meridianpharma.com,DC015,Pharmacist Liaison,2014-09-05,78901.93
+EMP0318,Brandon,Morris,BrandonMorris@meridianpharma.com,DC001,Sales Associate,2019-12-20,
+EMP0319,Anna,Scott,AnnaScott@meridianpharma.com,DC010,Sales Associate,2019-08-20,58999.46
+EMP0320,Daniel,Wilson,DanielWilson@meridianpharma.com,DC017,Inventory Clerk,2016-09-14,35769.87
+EMP0321,Melissa,Wright,MelissaWright@meridianpharma.com,DC003,Pharmacist Liaison,2024-10-04,73416.11
+EMP0322,Carolyn,Lewis,CarolynLewis@meridianpharma.com,DC003,Sales Associate,2015-01-18,51576.07
+EMP0323,Jacob,Davis,JacobDavis@meridianpharma.com,DC023,Inventory Clerk,2014-12-05,39973.07
+EMP0324,Kevin,Reed,KevinReed@meridianpharma.com,DC004,Sales Associate,2016-07-30,48047.79
+EMP0325,Larry,Stewart,LarryStewart@meridianpharma.com,DC003,Store Manager,2024-02-01,70724.13
+EMP0326,Daniel,Green,DanielGreen@meridianpharma.com,DC000,Inventory Clerk,2022-06-09,44352.43
+EMP0327,Elizabeth,Hill,ElizabethHill@meridianpharma.com,DC008,Logistics Coordinator,2021-08-05,67499.47
+EMP0328,Jack,Moore,JackMoore@meridianpharma.com,DC023,Cashier,2019-08-14,39992.75
+EMP0329,Richard,Parker,RichardParker@meridianpharma.com,DC003,Pharmacist Liaison,2020-10-14,82817.25
+EMP0330,Ronald,Adams,RonaldAdams@meridianpharma.com,DC0,Account Representative,2019-07-03,56720.75
+EMP0331,Timothy,Parker,TimothyParker@meridianpharma.com,DC019,Logistics Coordinator,2014-12-18,64975.0
+EMP0332,Ashley,Martinez,AshleyMartinez@meridianpharma.com,DC005,Logistics Coordinator,2021-12-25,65212.97
+EMP0333,Stephanie,Green,StephanieGreen@meridianpharma.com,DC003,Sales Associate,2024-07-29,49810.47
+EMP0334,Paul,Wilson,PaulWilson@meridianpharma.com,DC006,Logistics Coordinator,2019-01-13,60606.8
+EMP0335,Susan,Brown,SusanBrown@meridianpharma.com,DC018,Cashier,2020-09-11,38135.35
+EMP0336,Stephanie,Johnson,StephanieJohnson@meridianpharma.com,DC013,Cashier,2022-02-16,41954.31
+EMP0337,Ashley,Kelly,AshleyKelly@meridianpharma.com,DC022,Logistics Coordinator,2015-11-26,52118.45
+EMP0338,Angela,Jackson,AngelaJackson@meridianpharma.com,DC014,Store Manager,2018-09-21,64934.1
+EMP0339,George,Allen,GeorgeAllen@meridianpharma.com,DC024,Account Representative,2020-08-29,65015.88
+EMP0340,Sarah,Hill,SarahHill@meridianpharma.com,,Pharmacist Liaison,2023-06-10,78962.98
+EMP0341,Kevin,Cruz,KevinCruz@meridianpharma.com,DC021,Inventory Clerk,2017-05-15,37527.08
+EMP0342,Betty,Morris,BettyMorris@meridianpharma.com,DC013,Pharmacist Liaison,2017-04-08,81933.25
+EMP0343,Emma,Young,EmmaYoung@meridianpharma.com,DC009,Logistics Coordinator,2018-02-04,51611.92
+EMP0344,Nicole,Cooper,NicoleCooper@meridianpharma.com,DC018,Sales Associate,2024-09-08,57435.28
+EMP0345,Anthony,Cruz,AnthonyCruz@meridianpharma.com,DC023,Cashier,2023-03-09,41282.13
+EMP0346,Frank,Murphy,FrankMurphy@meridianpharma.com,DC010,Shift Supervisor,2016-10-31,50785.01
+EMP0347,Timothy,Martinez,TimothyMartinez@meridianpharma.com,DC020,Account Representative,2020-07-12,60407.19
+EMP0348,Alexander,Turner,AlexanderTurner@meridianpharma.com,DC012,Cashier,2015-03-24,40288.82
+EMP0349,Melissa,Perez,MelissaPerez@meridianpharma.com,DC002,Logistics Coordinator,2024-11-04,64579.46
+EMP0350,Laura,Wilson,LauraWilson@meridianpharma.com,DC0,Shift Supervisor,2019-09-23,52235.73
+EMP0351,Alexander,Kelly,AlexanderKelly@meridianpharma.com,DC012,Logistics Coordinator,2019-03-12,64978.55
+EMP0352,Nicholas,Martin,NicholasMartin@meridianpharma.com,DC001,Account Representative,2015-03-05,58157.48
+EMP0353,David,Anderson,DavidAnderson@meridianpharma.com,DC024,Inventory Clerk,2017-11-27,37407.3
+EMP0354,Anthony,Gutierrez,AnthonyGutierrez@meridianpharma.com,DC016,Cashier,2018-11-30,39697.12
+EMP0355,William,Hill,WilliamHill@meridianpharma.com,DC023,Cashier,2014-04-03,41299.67
+EMP0356,Frank,Perez,FrankPerez@meridianpharma.com,DC024,Shift Supervisor,2019-10-15,42819.76
+EMP0357,Pamela,Diaz,PamelaDiaz@meridianpharma.com,DC008,Logistics Coordinator,2021-01-23,53044.37
+EMP0358,Laura,Gomez,LauraGomez@meridianpharma.com,,Shift Supervisor,2019-01-16,49691.74
+EMP0359,Raymond,Ramirez,RaymondRamirez@meridianpharma.com,DC023,Cashier,2020-06-22,31882.08
+EMP0360,Lisa,Campbell,LisaCampbell@meridianpharma.com,DC015,Cashier,2016-12-10,39050.84
+EMP0361,Katherine,Green,KatherineGreen@meridianpharma.com,DC020,Logistics Coordinator,2020-08-01,51618.91
+EMP0362,Ryan,Richardson,RyanRichardson@meridianpharma.com,DC022,Store Manager,2024-04-20,72424.73
+EMP0363,Sarah,Green,SarahGreen@meridianpharma.com,DC010,Cashier,2016-01-20,35303.66
+EMP0364,Stephanie,Turner,StephanieTurner@meridianpharma.com,DC019,Logistics Coordinator,2018-09-29,53070.8
+EMP0365,Alexander,Thompson,AlexanderThompson@meridianpharma.com,DC016,Store Manager,2015-07-29,62252.95
+EMP0366,Samantha,Miller,SamanthaMiller@meridianpharma.com,DC001,Account Representative,2015-07-14,56015.99
+EMP0367,Pamela,Cook,PamelaCook@meridianpharma.com,DC014,Account Representative,2018-08-30,67011.54
+EMP0368,Nancy,Hernandez,NancyHernandez@meridianpharma.com,DC008,Store Manager,2014-05-14,64341.5
+EMP0369,Nancy,Collins,NancyCollins@meridianpharma.com,DC016,Cashier,2020-06-03,32039.0
+EMP0370,George,Cooper,GeorgeCooper@meridianpharma.com,DC002,Account Representative,2020-02-16,56515.87
+EMP0371,Jack,Young,JackYoung@meridianpharma.com,DC002,Account Representative,2016-12-12,59292.12
+EMP0372,Jeffrey,Thomas,JeffreyThomas@meridianpharma.com,DC008,Shift Supervisor,2023-02-03,52083.73
+EMP0373,Raymond,Ward,RaymondWard@meridianpharma.com,DC006,Inventory Clerk,2022-10-20,35970.36
+EMP0374,Linda,Reed,LindaReed@meridianpharma.com,DC009,Inventory Clerk,2017-08-18,46513.35
+EMP0375,Emma,Wright,EmmaWright@meridianpharma.com,DC017,Cashier,2015-07-10,42730.93
+EMP0376,Linda,Scott,LindaScott@meridianpharma.com,DC005,Inventory Clerk,2016-10-19,35146.22
+EMP0377,Ashley,Gomez,AshleyGomez@meridianpharma.com,DC019,Store Manager,2021-01-15,67658.56
+EMP0378,Katherine,Lopez,KatherineLopez@meridianpharma.com,DC024,Store Manager,2021-10-16,80084.8
+EMP0379,Gary,Adams,GaryAdams@meridianpharma.com,DC024,Cashier,2022-03-13,42849.09
+EMP0380,Carolyn,Rivera,CarolynRivera@meridianpharma.com,DC018,Logistics Coordinator,2016-06-11,68953.01
+EMP0381,Angela,Wright,AngelaWright@meridianpharma.com,DC010,Pharmacist Liaison,2020-02-20,77868.48
+EMP0382,Gary,Baker,GaryBaker@meridianpharma.com,DC002,Sales Associate,2015-02-12,55596.47
+EMP0383,Robert,Thomas,RobertThomas@meridianpharma.com,DC006,Account Representative,2019-02-13,51864.43
+EMP0384,Betty,Taylor,BettyTaylor@meridianpharma.com,DC010,Inventory Clerk,2023-10-22,45881.7
+EMP0385,Christine,Campbell,ChristineCampbell@meridianpharma.com,DC012,Inventory Clerk,2014-08-01,38560.06
+EMP0386,Carolyn,Robinson,CarolynRobinson@meridianpharma.com,DC003,Cashier,2014-01-05,33289.11
+EMP0387,Nicole,Lewis,NicoleLewis@meridianpharma.com,DC015,Sales Associate,2014-02-03,56859.87
+EMP0388,Edward,Taylor,EdwardTaylor@meridianpharma.com,DC008,Logistics Coordinator,2015-01-01,64134.5
+EMP0389,Kenneth,Mitchell,KennethMitchell@meridianpharma.com,DC005,Logistics Coordinator,2022-09-04,65811.37
+EMP0390,Samuel,Jackson,SamuelJackson@meridianpharma.com,DC019,Sales Associate,2020-11-04,56030.37
+EMP0391,Patrick,Ramirez,PatrickRamirez@meridianpharma.com,DC005,Logistics Coordinator,2020-11-28,63237.29
+EMP0392,Barbara,Gonzalez,BarbaraGonzalez@meridianpharma.com,DC004,Logistics Coordinator,2017-12-10,68853.95
+EMP0393,Sarah,Young,SarahYoung@meridianpharma.com,DC003,Shift Supervisor,2020-03-16,49836.43
+EMP0394,Andrew,Brown,AndrewBrown@meridianpharma.com,DC022,Store Manager,2016-04-21,70122.43
+EMP0395,Maria,Gomez,MariaGomez@meridianpharma.com,DC002,Shift Supervisor,2019-07-21,46297.82
+EMP0396,Katherine,Kim,KatherineKim@meridianpharma.com,DC001,Pharmacist Liaison,2024-06-22,71096.64
+EMP0397,Larry,Turner,LarryTurner@meridianpharma.com,DC022,Inventory Clerk,2022-07-22,39579.35
+EMP0398,Elizabeth,Williams,ElizabethWilliams@meridianpharma.com,DC001,Store Manager,2016-06-02,58747.88
+EMP0399,Ronald,Cook,RonaldCook@meridianpharma.com,DC023,Logistics Coordinator,2018-10-01,63546.76
+EMP0400,Jonathan,Morgan,JonathanMorgan@meridianpharma.com,DC009,Cashier,2017-06-23,31595.67
+EMP0401,Karen,Morgan,KarenMorgan@meridianpharma.com,DC019,Cashier,2017-06-24,39403.32
+EMP0402,Donald,Davis,DonaldDavis@meridianpharma.com,DC014,Cashier,2019-02-01,38314.94
+EMP0403,Debra,Thompson,DebraThompson@meridianpharma.com,DC023,Inventory Clerk,2021-11-13,33304.94
+EMP0404,Brian,Gutierrez,BrianGutierrez@meridianpharma.com,DC024,Store Manager,2015-11-15,66650.49
+EMP0405,Paul,Thomas,PaulThomas@meridianpharma.com,DC001,Pharmacist Liaison,2023-01-19,74019.51
+EMP0406,Kimberly,Kelly,KimberlyKelly@meridianpharma.com,DC016,Account Representative,2019-09-24,59538.65
+EMP0407,Larry,Perez,LarryPerez@meridianpharma.com,DC009,Cashier,2024-01-11,37831.3
+EMP0408,Sandra,Rogers,SandraRogers@meridianpharma.com,DC999,Shift Supervisor,2014-07-08,47710.53
+EMP0409,Karen,Thompson,KarenThompson@meridianpharma.com,DC002,Logistics Coordinator,2016-07-08,55832.58
+EMP0410,Patrick,Green,PatrickGreen@meridianpharma.com,DC003,Pharmacist Liaison,2015-05-05,75902.86
+EMP0411,Daniel,Lewis,DanielLewis@meridianpharma.com,DC002,Logistics Coordinator,2014-10-10,67102.92
+EMP0412,Michelle,Adams,MichelleAdams@meridianpharma.com,DC015,Sales Associate,2018-02-20,47852.21
+EMP0413,Joshua,Richardson,JoshuaRichardson@meridianpharma.com,DC012,Account Representative,2022-08-31,68415.17
+EMP0414,Brenda,Young,BrendaYoung@meridianpharma.com,DC014,Sales Associate,2016-08-12,54056.12
+EMP0415,Alexander,Johnson,AlexanderJohnson@meridianpharma.com,DC001,Logistics Coordinator,2023-07-10,64283.08
+EMP0416,Anthony,Ortiz,AnthonyOrtiz@meridianpharma.com,DC014,Account Representative,2024-10-12,53128.76
+EMP0417,Janet,Scott,JanetScott@meridianpharma.com,DC008,Logistics Coordinator,2021-11-10,67480.23
+EMP0418,Maria,Hernandez,MariaHernandez@meridianpharma.com,DC017,Inventory Clerk,2021-02-23,44342.49
+EMP0419,Larry,Davis,LarryDavis@meridianpharma.com,DC005,Shift Supervisor,2017-04-09,44243.3
+EMP0420,Ronald,Adams,RonaldAdams@meridianpharma.com,DC009,Shift Supervisor,2014-11-02,55471.47
+EMP0421,Justin,Wilson,JustinWilson@meridianpharma.com,DC006,Account Representative,2019-03-24,58554.61
+EMP0422,Melissa,Clark,MelissaClark@meridianpharma.com,DC015,Store Manager,2023-07-24,60653.94
+EMP0423,Rachel,Hill,RachelHill@meridianpharma.com,DC023,Sales Associate,2016-05-30,59413.83
+EMP0424,Barbara,Young,BarbaraYoung@meridianpharma.com,DC013,Sales Associate,2021-08-05,49638.9
+EMP0425,Daniel,Brown,DanielBrown@meridianpharma.com,DC015,Shift Supervisor,2015-01-23,47550.61
+EMP0426,Sarah,Thomas,SarahThomas@meridianpharma.com,DC000,Inventory Clerk,2016-03-22,44393.14
+EMP0427,Benjamin,Hernandez,BenjaminHernandez@meridianpharma.com,DC009,Cashier,2014-03-31,43164.23
+EMP0428,Samuel,Cruz,SamuelCruz@meridianpharma.com,DC003,Pharmacist Liaison,2015-05-17,64005.83
+EMP0429,Nancy,Kelly,NancyKelly@meridianpharma.com,DC024,Logistics Coordinator,2019-07-26,49898.49
+EMP0430,Daniel,Rivera,DanielRivera@meridianpharma.com,DC006,Store Manager,2017-02-20,68415.07
+EMP0431,Brandon,Richardson,BrandonRichardson@meridianpharma.com,DC021,Store Manager,2019-08-06,67605.41
+EMP0432,Linda,Lopez,LindaLopez@meridianpharma.com,DC005,Logistics Coordinator,2016-03-27,62345.85
+EMP0433,Ashley,Cooper,AshleyCooper@meridianpharma.com,DC013,Pharmacist Liaison,2019-05-19,77003.01
+EMP0434,Larry,Cook,LarryCook@meridianpharma.com,DC009,Inventory Clerk,2014-04-17,37502.68
+EMP0435,Emily,Davis,EmilyDavis@meridianpharma.com,DC016,Pharmacist Liaison,2022-08-07,78025.31
+EMP0436,Christopher,Gonzalez,ChristopherGonzalez@meridianpharma.com,DC008,Store Manager,2019-12-26,77227.59
+EMP0437,Linda,Lewis,LindaLewis@meridianpharma.com,DC013,Pharmacist Liaison,2024-06-27,84635.86
+EMP0438,Daniel,Walker,DanielWalker@meridianpharma.com,DC024,Pharmacist Liaison,2024-04-01,78221.47
+EMP0439,Melissa,Reed,MelissaReed@meridianpharma.com,DC019,Shift Supervisor,2023-05-21,56202.7
+EMP0440,Angela,Cooper,AngelaCooper@meridianpharma.com,DC016,Sales Associate,2015-01-05,45222.26
+EMP0441,Robert,Ortiz,RobertOrtiz@meridianpharma.com,DC011,Shift Supervisor,2023-01-17,42096.55
+EMP0442,Carol,Davis,CarolDavis@meridianpharma.com,,Inventory Clerk,2022-09-07,34664.07
+EMP0443,George,Martinez,GeorgeMartinez@meridianpharma.com,DC022,Logistics Coordinator,2020-07-28,51350.95
+EMP0444,Sarah,Lee,SarahLee@meridianpharma.com,DC014,Account Representative,2021-04-13,58624.0
+EMP0445,Pamela,Ward,PamelaWard@meridianpharma.com,DC008,Inventory Clerk,2018-03-30,37338.14
+EMP0446,Thomas,Thompson,ThomasThompson@meridianpharma.com,DC023,Logistics Coordinator,2023-07-17,69483.95
+EMP0447,John,White,JohnWhite@meridianpharma.com,DC020,Shift Supervisor,2021-03-04,49253.3
+EMP0448,Charles,Nelson,CharlesNelson@meridianpharma.com,DC008,Pharmacist Liaison,2017-08-01,67248.28
+EMP0449,Barbara,Nelson,BarbaraNelson@meridianpharma.com,DC009,Shift Supervisor,2016-10-19,51352.75
+EMP0450,Susan,Smith,SusanSmith@meridianpharma.com,DC015,Logistics Coordinator,2024-11-13,52676.67
+EMP0451,Timothy,Hall,TimothyHall@meridianpharma.com,DC004,Account Representative,2022-11-05,70297.48
+EMP0452,Rachel,Lewis,RachelLewis@meridianpharma.com,DC003,Sales Associate,2017-04-22,44565.42
+EMP0453,Susan,Martinez,SusanMartinez@meridianpharma.com,DC013,Inventory Clerk,2022-03-18,34173.78
+EMP0454,Barbara,Baker,BarbaraBaker@meridianpharma.com,DC020,Account Representative,2021-11-25,52511.7
+EMP0455,Nancy,Cox,NancyCox@meridianpharma.com,DC006,Sales Associate,2015-02-19,50225.92
+EMP0456,Jason,Peterson,JasonPeterson@meridianpharma.com,DC024,Store Manager,2021-05-29,64500.25
+EMP0457,Michael,Gomez,MichaelGomez@meridianpharma.com,DC016,Inventory Clerk,2014-08-12,38075.31
+EMP0458,Donna,Kim,DonnaKim@meridianpharma.com,DC004,Sales Associate,2016-04-27,47309.15
+EMP0459,David,Stewart,DavidStewart@meridianpharma.com,DC010,Logistics Coordinator,2019-04-13,59228.67
+EMP0460,Barbara,Cooper,BarbaraCooper@meridianpharma.com,DC012,Logistics Coordinator,2018-02-22,53087.63
+EMP0461,Jeffrey,Reyes,JeffreyReyes@meridianpharma.com,DC009,Sales Associate,2015-09-12,57890.68
+EMP0462,David,Hall,DavidHall@meridianpharma.com,DC014,Shift Supervisor,2020-03-17,40953.18
+EMP0463,Eric,Turner,EricTurner@meridianpharma.com,DC022,Account Representative,2020-06-03,70673.31
+EMP0464,David,Gomez,DavidGomez@meridianpharma.com,DC023,Sales Associate,2019-08-19,54596.2
+EMP0465,Emma,Richardson,EmmaRichardson@meridianpharma.com,DC015,Inventory Clerk,2024-08-23,46586.62
+EMP0466,Matthew,Taylor,MatthewTaylor@meridianpharma.com,DC003,Logistics Coordinator,2016-04-07,69544.57
+EMP0467,Scott,King,ScottKing@meridianpharma.com,DC024,Cashier,2014-12-23,35490.05
+EMP0468,Carol,Scott,CarolScott@meridianpharma.com,DC001,Logistics Coordinator,2015-04-06,57713.18
+EMP0469,Nicole,Howard,NicoleHoward@meridianpharma.com,DC004,Cashier,2020-04-23,40422.26
+EMP0470,Jonathan,Hall,JonathanHall@meridianpharma.com,DC009,Logistics Coordinator,2021-05-06,59157.37
+EMP0471,John,Thompson,JohnThompson@meridianpharma.com,DC005,Logistics Coordinator,2014-06-08,57334.59
+EMP0472,Alexander,Walker,AlexanderWalker@meridianpharma.com,DC016,Store Manager,2024-01-23,66664.09
+EMP0473,Joshua,Flores,JoshuaFlores@meridianpharma.com,DC016,Cashier,2024-11-27,41548.14
+EMP0474,Maria,Cruz,MariaCruz@meridianpharma.com,DC011,Store Manager,2022-03-05,67719.19
+EMP0475,Matthew,Cruz,MatthewCruz@meridianpharma.com,DC014,Account Representative,2022-07-08,62877.31
+EMP0476,Linda,Rogers,LindaRogers@meridianpharma.com,DC003,Store Manager,2021-12-16,69861.73
+EMP0477,Anna,Reed,AnnaReed@meridianpharma.com,DC000,Shift Supervisor,2023-05-22,40897.97
+EMP0478,Michael,Campbell,MichaelCampbell@meridianpharma.com,DC009,Pharmacist Liaison,2023-03-28,74923.26
+EMP0479,Jessica,Brown,JessicaBrown@meridianpharma.com,DC016,Account Representative,2015-12-29,72357.11
+EMP0480,Stephen,Hall,StephenHall@meridianpharma.com,DC009,Cashier,2017-03-13,30945.88
+EMP0481,Emma,Ramirez,EmmaRamirez@meridianpharma.com,DC021,Shift Supervisor,2021-08-07,43350.72
+EMP0482,Shirley,Williams,ShirleyWilliams@meridianpharma.com,DC022,Sales Associate,2019-04-26,60789.58
+EMP0483,Scott,Johnson,ScottJohnson@meridianpharma.com,DC020,Store Manager,2021-12-29,80815.18
+EMP0484,Edward,Carter,EdwardCarter@meridianpharma.com,DC015,Store Manager,2016-06-12,68907.41
+EMP0485,Samantha,Gomez,SamanthaGomez@meridianpharma.com,DC001,Pharmacist Liaison,2020-04-18,79666.16
+EMP0486,Joshua,Wilson,JoshuaWilson@meridianpharma.com,DC011,Store Manager,2021-03-08,65538.26
+EMP0487,Christine,Hill,ChristineHill@meridianpharma.com,DC017,Shift Supervisor,2024-02-03,40883.94
+EMP0488,Scott,Phillips,ScottPhillips@meridianpharma.com,DC022,Inventory Clerk,2022-02-02,33497.46
+EMP0489,Donna,King,DonnaKing@meridianpharma.com,DC013,Logistics Coordinator,2022-04-06,50016.98
+EMP0490,Emma,Harris,EmmaHarris@meridianpharma.com,DC023,Shift Supervisor,2021-09-12,48744.75
+EMP0491,Debra,Rivera,DebraRivera@meridianpharma.com,DC006,Inventory Clerk,2017-04-18,34482.28
+EMP0492,Kimberly,Bailey,KimberlyBailey@meridianpharma.com,DC006,Pharmacist Liaison,2021-05-04,65212.87
+EMP0493,Maria,Flores,MariaFlores@meridianpharma.com,DC011,Pharmacist Liaison,2016-12-03,78066.28
+EMP0494,Jessica,Stewart,JessicaStewart@meridianpharma.com,DC021,Cashier,2019-04-19,41806.77
+EMP0495,Rachel,Carter,RachelCarter@meridianpharma.com,DC014,Sales Associate,2023-10-07,59747.16
+EMP0496,Betty,Baker,BettyBaker@meridianpharma.com,DC019,Account Representative,2015-08-10,58604.79
+EMP0497,David,Morales,DavidMorales@meridianpharma.com,DC006,Pharmacist Liaison,2021-02-11,64402.55
+EMP0498,Anthony,Perez,AnthonyPerez@meridianpharma.com,DC006,Account Representative,2022-10-22,68152.2
+EMP0499,Brandon,Parker,BrandonParker@meridianpharma.com,DC013,Logistics Coordinator,2024-10-28,
+EMP0500,Jonathan,Sanchez,JonathanSanchez@meridianpharma.com,DC001,Pharmacist Liaison,2022-06-28,84480.62
+EMP0501,Frank,Smith,FrankSmith@meridianpharma.com,DC008,Shift Supervisor,2021-10-11,54376.41
+EMP0502,Susan,Roberts,SusanRoberts@meridianpharma.com,DC010,Inventory Clerk,2014-09-25,44395.47
+EMP0503,Donna,Collins,DonnaCollins@meridianpharma.com,DC020,Pharmacist Liaison,2018-11-12,85898.53
+EMP0504,Amanda,Morales,AmandaMorales@meridianpharma.com,DC007,Inventory Clerk,2024-08-19,45529.11
+EMP0505,Robert,Robinson,RobertRobinson@meridianpharma.com,DC005,Shift Supervisor,2022-03-26,40310.47
+EMP0506,Jessica,Campbell,JessicaCampbell@meridianpharma.com,DC002,Logistics Coordinator,2023-10-31,62298.52
+EMP0507,Samantha,Miller,SamanthaMiller@meridianpharma.com,DC002,Cashier,2021-05-01,41135.11
+EMP0508,Joseph,Turner,JosephTurner@meridianpharma.com,DC004,Store Manager,2019-04-28,74504.46
+EMP0509,Rachel,Johnson,RachelJohnson@meridianpharma.com,DC022,Cashier,2021-06-06,37155.9
+EMP0510,Carolyn,Moore,CarolynMoore@meridianpharma.com,DC004,Cashier,2017-03-03,32036.56
+EMP0511,Betty,Cox,BettyCox@meridianpharma.com,DC009,Shift Supervisor,2018-01-06,51521.53
+EMP0512,Jennifer,Peterson,JenniferPeterson@meridianpharma.com,DC007,Account Representative,2017-09-16,
+EMP0513,Barbara,Anderson,BarbaraAnderson@meridianpharma.com,DC022,Account Representative,2015-09-03,72120.67
+EMP0514,Elizabeth,Gonzalez,ElizabethGonzalez@meridianpharma.com,DC021,Shift Supervisor,2019-02-14,56213.55
+EMP0515,Kathleen,Miller,KathleenMiller@meridianpharma.com,DC006,Sales Associate,2023-07-23,49488.32
+EMP0516,Kenneth,Diaz,KennethDiaz@meridianpharma.com,DC004,Sales Associate,2014-02-09,59706.38
+EMP0517,Nancy,Nelson,NancyNelson@meridianpharma.com,DC015,Store Manager,2023-11-08,75247.02
+EMP0518,Amanda,White,AmandaWhite@meridianpharma.com,DC013,Account Representative,2017-01-18,69692.37
+EMP0519,Amy,Turner,AmyTurner@meridianpharma.com,DC006,Cashier,2015-06-27,39371.74
+EMP0520,Christopher,Wilson,ChristopherWilson@meridianpharma.com,DC019,Account Representative,2022-12-31,63996.94
+EMP0521,Brandon,Carter,BrandonCarter@meridianpharma.com,DC020,Sales Associate,2023-09-04,56657.25
+EMP0522,Thomas,Morris,ThomasMorris@meridianpharma.com,DC004,Logistics Coordinator,2018-12-11,50233.24
+EMP0523,Kenneth,Johnson,KennethJohnson@meridianpharma.com,DC022,Shift Supervisor,2024-12-19,55672.28
+EMP0524,Eric,Gutierrez,EricGutierrez@meridianpharma.com,DC020,Cashier,2018-11-08,38937.59
+EMP0525,Brian,Roberts,BrianRoberts@meridianpharma.com,DC018,Sales Associate,2014-02-17,55909.86
+EMP0526,Jacob,Murphy,JacobMurphy@meridianpharma.com,DC003,Account Representative,2017-08-06,56993.04
+EMP0527,Michael,Cook,MichaelCook@meridianpharma.com,DC021,Logistics Coordinator,2018-07-10,65887.2
+EMP0528,Jeffrey,Kelly,JeffreyKelly@meridianpharma.com,DC016,Account Representative,2017-07-18,54384.39
+EMP0529,Christine,Williams,ChristineWilliams@meridianpharma.com,DC014,Sales Associate,2020-04-01,54193.6
+EMP0530,Helen,Richardson,HelenRichardson@meridianpharma.com,DC017,Shift Supervisor,2021-05-05,50995.75
+EMP0531,George,Miller,GeorgeMiller@meridianpharma.com,DC015,Pharmacist Liaison,2020-04-13,82776.08
+EMP0532,Janet,Campbell,JanetCampbell@meridianpharma.com,DC004,Cashier,2022-07-08,
+EMP0533,Melissa,Nguyen,MelissaNguyen@meridianpharma.com,DC012,Cashier,2014-07-07,41900.65
+EMP0534,Janet,Evans,JanetEvans@meridianpharma.com,DC020,Shift Supervisor,2016-02-08,41936.27
+EMP0535,Margaret,Collins,MargaretCollins@meridianpharma.com,DC007,Pharmacist Liaison,2015-03-18,82510.17
+EMP0536,Katherine,Ramos,KatherineRamos@meridianpharma.com,DC015,Account Representative,2021-05-21,64431.9
+EMP0537,Angela,Smith,AngelaSmith@meridianpharma.com,DC002,Logistics Coordinator,2023-05-29,61177.95
+EMP0538,Daniel,Howard,DanielHoward@meridianpharma.com,DC005,Cashier,2018-05-06,38884.77
+EMP0539,Carol,Cook,CarolCook@meridianpharma.com,DC014,Shift Supervisor,2017-01-25,46494.96
+EMP0540,Donna,Edwards,DonnaEdwards@meridianpharma.com,DC005,Logistics Coordinator,2020-10-03,63510.29
+EMP0541,Joshua,Peterson,JoshuaPeterson@meridianpharma.com,DC023,Shift Supervisor,2016-04-02,43399.77
+EMP0542,Rachel,Hall,RachelHall@meridianpharma.com,DC005,Inventory Clerk,2019-08-26,40555.01
+EMP0543,Raymond,Anderson,RaymondAnderson@meridianpharma.com,DC018,Account Representative,2020-07-15,64033.13
+EMP0544,Sharon,Morgan,SharonMorgan@meridianpharma.com,DC014,Sales Associate,2019-11-12,46137.76
+EMP0545,Michael,Davis,MichaelDavis@meridianpharma.com,DC006,Store Manager,2021-08-31,63763.35
+EMP0546,Alexander,Nguyen,AlexanderNguyen@meridianpharma.com,DC018,Sales Associate,2018-01-09,59015.28
+EMP0547,Frank,Bailey,FrankBailey@meridianpharma.com,DC024,Logistics Coordinator,2016-08-31,59671.72
+EMP0548,Carolyn,Torres,CarolynTorres@meridianpharma.com,DC002,Logistics Coordinator,2018-05-07,57756.29
+EMP0549,Rachel,Green,RachelGreen@meridianpharma.com,DC002,Sales Associate,2022-05-05,48774.41
+EMP0550,Jeffrey,Lewis,JeffreyLewis@meridianpharma.com,DC023,Pharmacist Liaison,2022-06-20,78139.18
+EMP0551,Betty,Harris,BettyHarris@meridianpharma.com,DC006,Cashier,2016-02-05,42727.19
+EMP0552,Jessica,Carter,JessicaCarter@meridianpharma.com,DC009,Store Manager,2015-06-17,61630.11
+EMP0553,James,Nelson,JamesNelson@meridianpharma.com,DC005,Sales Associate,2015-09-22,61101.03
+EMP0554,Benjamin,Ward,BenjaminWard@meridianpharma.com,DC010,Account Representative,2022-11-10,64076.65
+EMP0555,Raymond,Green,RaymondGreen@meridianpharma.com,DC006,Cashier,2022-10-26,36964.77
+EMP0556,Jonathan,Phillips,JonathanPhillips@meridianpharma.com,DC008,Shift Supervisor,2021-06-10,45409.48
+EMP0557,Margaret,Richardson,MargaretRichardson@meridianpharma.com,DC018,Sales Associate,2015-04-15,56374.68
+EMP0558,Samuel,Ward,SamuelWard@meridianpharma.com,DC008,Sales Associate,2021-08-27,60319.01
+EMP0559,Joseph,Roberts,JosephRoberts@meridianpharma.com,DC024,Store Manager,2014-04-12,79489.8
+EMP0560,Deborah,Rogers,DeborahRogers@meridianpharma.com,DC015,Account Representative,2014-06-29,58178.87
+EMP0561,Carol,Rogers,CarolRogers@meridianpharma.com,DC004,Inventory Clerk,2024-11-23,46203.17
+EMP0562,James,Rodriguez,JamesRodriguez@meridianpharma.com,DC021,Shift Supervisor,2023-09-13,51224.92
+EMP0563,Anthony,Morgan,AnthonyMorgan@meridianpharma.com,DC024,Logistics Coordinator,2021-04-02,65880.11
+EMP0564,Rachel,Martin,RachelMartin@meridianpharma.com,DC0,Sales Associate,2014-12-25,45533.11
+EMP0565,Steven,Bailey,StevenBailey@meridianpharma.com,DC008,Store Manager,2018-07-28,67035.18
+EMP0566,Laura,Green,LauraGreen@meridianpharma.com,DC999,Sales Associate,2021-03-12,57309.2
+EMP0567,Maria,Howard,MariaHoward@meridianpharma.com,DC003,Pharmacist Liaison,2024-05-29,75923.48
+EMP0568,Rachel,Hill,RachelHill@meridianpharma.com,DC010,Account Representative,2018-04-12,60285.67
+EMP0569,Jacob,Lee,JacobLee@meridianpharma.com,DC005,Logistics Coordinator,2022-12-08,65488.94
+EMP0570,Katherine,Jackson,KatherineJackson@meridianpharma.com,DC024,Pharmacist Liaison,2024-09-26,87491.15
+EMP0571,Pamela,Jackson,PamelaJackson@meridianpharma.com,DC001,Logistics Coordinator,2020-01-10,60414.77
+EMP0572,Anthony,Hall,AnthonyHall@meridianpharma.com,DC021,Inventory Clerk,2015-10-22,35661.5
+EMP0573,Steven,Harris,StevenHarris@meridianpharma.com,DC022,Sales Associate,2023-07-20,57868.96
+EMP0574,Stephen,Reyes,StephenReyes@meridianpharma.com,DC003,Store Manager,2021-07-14,59403.23
+EMP0575,Patrick,Howard,PatrickHoward@meridianpharma.com,DC011,Pharmacist Liaison,2015-06-10,80286.56
+EMP0576,Andrew,Richardson,AndrewRichardson@meridianpharma.com,DC007,Pharmacist Liaison,2019-06-14,74571.73
+EMP0577,Michelle,Howard,MichelleHoward@meridianpharma.com,DC019,Pharmacist Liaison,2023-01-22,71093.03
+EMP0578,James,Green,JamesGreen@meridianpharma.com,DC008,Logistics Coordinator,2017-02-07,66354.23
+EMP0579,Catherine,Nelson,CatherineNelson@meridianpharma.com,DC015,Account Representative,2018-01-09,68391.27
+EMP0580,Susan,Thompson,SusanThompson@meridianpharma.com,DC003,Store Manager,2023-08-19,77469.36
+EMP0581,Betty,King,BettyKing@meridianpharma.com,DC021,Cashier,2022-02-27,
+EMP0582,Nicholas,Brown,NicholasBrown@meridianpharma.com,DC019,Logistics Coordinator,2022-08-17,61277.74
+EMP0583,Stephen,King,StephenKing@meridianpharma.com,DC018,Account Representative,2021-05-02,68400.46
+EMP0584,Mark,Ramos,MarkRamos@meridianpharma.com,DC010,Inventory Clerk,2019-03-19,39990.33
+EMP0585,George,Cook,GeorgeCook@meridianpharma.com,DC000,Inventory Clerk,2022-06-29,40167.97
+EMP0586,Daniel,Reed,DanielReed@meridianpharma.com,DC022,Inventory Clerk,2022-04-03,43141.86
+EMP0587,Jennifer,Lewis,JenniferLewis@meridianpharma.com,DC008,Cashier,2016-12-18,35254.88
+EMP0588,Anthony,Gutierrez,AnthonyGutierrez@meridianpharma.com,DC012,Logistics Coordinator,2019-04-08,67933.41
+EMP0589,Jennifer,Adams,JenniferAdams@meridianpharma.com,DC017,Store Manager,2023-05-13,75457.45
+EMP0590,Larry,Thompson,LarryThompson@meridianpharma.com,DC013,Pharmacist Liaison,2020-08-04,79821.42
+EMP0591,Eric,Allen,EricAllen@meridianpharma.com,DC008,Logistics Coordinator,2017-12-16,65889.91
+EMP0592,Amy,Cox,AmyCox@meridianpharma.com,DC000,Account Representative,2015-11-10,56760.3
+EMP0593,Emily,Ramirez,EmilyRamirez@meridianpharma.com,DC006,Pharmacist Liaison,2020-10-01,81478.14
+EMP0594,Sandra,Turner,SandraTurner@meridianpharma.com,DC024,Cashier,2019-05-27,39107.89
+EMP0595,Nicole,Lee,NicoleLee@meridianpharma.com,DC014,Sales Associate,2016-09-25,44985.23
+EMP0596,Christopher,Moore,ChristopherMoore@meridianpharma.com,DC002,Inventory Clerk,2014-08-18,35420.56
+EMP0597,Eric,Phillips,EricPhillips@meridianpharma.com,DC019,Sales Associate,2023-11-08,57295.76
+EMP0598,Andrew,Hernandez,AndrewHernandez@meridianpharma.com,DC020,Account Representative,2023-09-23,62133.62
+EMP0599,Jason,Kim,JasonKim@meridianpharma.com,DC019,Inventory Clerk,2020-12-27,42154.21
+EMP0600,Patrick,Baker,PatrickBaker@meridianpharma.com,DC020,Cashier,2016-07-30,35365.46
+EMP0601,Robert,Sanchez,RobertSanchez@meridianpharma.com,DC017,Logistics Coordinator,2023-04-09,52336.09
+EMP0602,Jacob,Ward,JacobWard@meridianpharma.com,DC018,Cashier,2015-01-17,36676.24
+EMP0603,Helen,Cooper,HelenCooper@meridianpharma.com,DC022,Logistics Coordinator,2019-11-09,57839.89
+EMP0604,Carolyn,Ortiz,CarolynOrtiz@meridianpharma.com,DC016,Logistics Coordinator,2017-12-06,61257.68
+EMP0605,Carolyn,Kelly,CarolynKelly@meridianpharma.com,DC005,Store Manager,2019-05-09,76027.44
+EMP0606,David,Torres,DavidTorres@meridianpharma.com,DC018,Logistics Coordinator,2016-11-21,53137.13
+EMP0607,James,Kelly,JamesKelly@meridianpharma.com,DC017,Sales Associate,2018-03-17,56112.74
+EMP0608,Kenneth,Evans,KennethEvans@meridianpharma.com,DC005,Logistics Coordinator,2021-04-22,61183.01
+EMP0609,Jonathan,Diaz,JonathanDiaz@meridianpharma.com,DC020,Store Manager,2021-08-19,67259.41
+EMP0610,Stephen,Bailey,StephenBailey@meridianpharma.com,DC012,Account Representative,2016-11-05,72954.65
+EMP0611,Raymond,Gomez,RaymondGomez@meridianpharma.com,DC022,Cashier,2022-05-22,33495.12
+EMP0612,Christopher,Gonzalez,ChristopherGonzalez@meridianpharma.com,DC013,Pharmacist Liaison,2022-12-25,77159.92
+EMP0613,Raymond,Miller,RaymondMiller@meridianpharma.com,DC021,Sales Associate,2023-01-08,45857.81
+EMP0614,Scott,Parker,ScottParker@meridianpharma.com,DC009,Shift Supervisor,2018-02-27,41266.65
+EMP0615,Stephanie,Phillips,StephaniePhillips@meridianpharma.com,DC017,Store Manager,2021-12-24,80732.01
+EMP0616,Daniel,Murphy,DanielMurphy@meridianpharma.com,DC007,Store Manager,2016-03-08,58599.9
+EMP0617,Eric,Robinson,EricRobinson@meridianpharma.com,DC022,Sales Associate,2018-01-13,
+EMP0618,Christopher,Lopez,ChristopherLopez@meridianpharma.com,DC013,Pharmacist Liaison,2021-07-05,73134.21
+EMP0619,Eric,Johnson,EricJohnson@meridianpharma.com,DC003,Cashier,2020-03-01,34184.62
+EMP0620,Justin,Hall,JustinHall@meridianpharma.com,DC009,Shift Supervisor,2020-10-19,55792.29
+EMP0621,Rebecca,Kelly,RebeccaKelly@meridianpharma.com,DC000,Logistics Coordinator,2019-09-05,51461.24
+EMP0622,Donna,Baker,DonnaBaker@meridianpharma.com,DC017,Store Manager,2023-10-29,70602.1
+EMP0623,Steven,Cruz,StevenCruz@meridianpharma.com,DC019,Account Representative,2022-08-20,57043.88
+EMP0624,Ryan,Collins,RyanCollins@meridianpharma.com,DC001,Account Representative,2015-04-22,57354.45
+EMP0625,Mark,Robinson,MarkRobinson@meridianpharma.com,DC014,Pharmacist Liaison,2019-10-17,76773.38
+EMP0626,Kimberly,Young,KimberlyYoung@meridianpharma.com,DC013,Pharmacist Liaison,2014-11-08,77262.88
+EMP0627,Kenneth,Rivera,KennethRivera@meridianpharma.com,DC019,Store Manager,2016-01-19,80341.41
+EMP0628,Matthew,Murphy,MatthewMurphy@meridianpharma.com,DC008,Shift Supervisor,2023-10-15,44315.92
+EMP0629,Ashley,Richardson,AshleyRichardson@meridianpharma.com,DC004,Cashier,2024-04-27,31588.94
+EMP0630,Angela,Ward,AngelaWard@meridianpharma.com,,Sales Associate,2023-07-06,52977.72
+EMP0631,Angela,Kelly,AngelaKelly@meridianpharma.com,DC016,Inventory Clerk,2022-07-28,45653.49
+EMP0632,Mark,Kelly,MarkKelly@meridianpharma.com,DC017,Logistics Coordinator,2019-05-14,68374.98
+EMP0633,Brian,Gomez,BrianGomez@meridianpharma.com,DC006,Account Representative,2024-12-13,54419.86
+EMP0634,Kenneth,Johnson,KennethJohnson@meridianpharma.com,DC000,Logistics Coordinator,2020-07-07,51345.18
+EMP0635,Kimberly,White,KimberlyWhite@meridianpharma.com,DC008,Store Manager,2019-04-15,80612.94
+EMP0636,Lisa,Murphy,LisaMurphy@meridianpharma.com,DC014,Pharmacist Liaison,2018-02-04,85027.05
+EMP0637,Lisa,Kelly,LisaKelly@meridianpharma.com,DC019,Shift Supervisor,2023-02-17,41592.86
+EMP0638,Donald,Bailey,DonaldBailey@meridianpharma.com,DC013,Shift Supervisor,2015-08-21,53110.62
+EMP0639,Jacob,Johnson,JacobJohnson@meridianpharma.com,DC016,Inventory Clerk,2024-01-07,44744.17
+EMP0640,Patrick,Green,PatrickGreen@meridianpharma.com,DC010,Store Manager,2020-04-21,78232.35
+EMP0641,Richard,Lee,RichardLee@meridianpharma.com,DC009,Account Representative,2023-05-30,65297.56
+EMP0642,Kevin,King,KevinKing@meridianpharma.com,DC018,Store Manager,2017-11-10,58272.08
+EMP0643,Frank,Cox,FrankCox@meridianpharma.com,DC019,Inventory Clerk,2024-12-25,43801.22
+EMP0644,Frank,Rogers,FrankRogers@meridianpharma.com,DC024,Account Representative,2023-12-23,53524.0
+EMP0645,Kathleen,Jackson,KathleenJackson@meridianpharma.com,DC021,Pharmacist Liaison,2018-09-24,79249.98
+EMP0646,Elizabeth,Hernandez,ElizabethHernandez@meridianpharma.com,DC008,Pharmacist Liaison,2017-07-21,79813.04
+EMP0647,Helen,Gomez,HelenGomez@meridianpharma.com,DC015,Pharmacist Liaison,2022-05-22,78101.22
+EMP0648,Jason,Perez,JasonPerez@meridianpharma.com,DC001,Inventory Clerk,2022-02-28,36352.66
+EMP0649,Maria,Hernandez,MariaHernandez@meridianpharma.com,DC013,Cashier,2015-01-27,31403.78
+EMP0650,Stephen,Miller,StephenMiller@meridianpharma.com,,Cashier,2015-03-02,33906.9
+EMP0651,Christine,Roberts,ChristineRoberts@meridianpharma.com,DC008,Store Manager,2018-12-21,72710.24
+EMP0652,Nancy,Brown,NancyBrown@meridianpharma.com,DC012,Pharmacist Liaison,2023-09-10,75232.41
+EMP0653,Brenda,Wright,BrendaWright@meridianpharma.com,DC005,Inventory Clerk,2020-08-17,41307.02
+EMP0654,Katherine,Reed,KatherineReed@meridianpharma.com,DC021,Store Manager,2024-03-11,66062.61
+EMP0655,Barbara,Cruz,BarbaraCruz@meridianpharma.com,DC014,Store Manager,2015-09-30,
+EMP0656,Sarah,Hall,SarahHall@meridianpharma.com,DC018,Sales Associate,2021-09-18,60982.01
+EMP0657,Amy,Hill,AmyHill@meridianpharma.com,,Store Manager,2020-09-11,
+EMP0658,Deborah,Harris,DeborahHarris@meridianpharma.com,DC018,Logistics Coordinator,2018-06-05,54372.89
+EMP0659,Samuel,Roberts,SamuelRoberts@meridianpharma.com,DC008,Store Manager,2014-11-21,67849.3
+EMP0660,Brandon,Wright,BrandonWright@meridianpharma.com,DC024,Store Manager,2018-08-19,62274.41
+EMP0661,Sarah,Nguyen,SarahNguyen@meridianpharma.com,DC015,Account Representative,2017-01-19,66805.09
+EMP0662,Carol,Williams,CarolWilliams@meridianpharma.com,DC018,Sales Associate,2016-02-01,61896.45
+EMP0663,Thomas,Cruz,ThomasCruz@meridianpharma.com,DC008,Cashier,2015-09-10,30785.53
+EMP0664,Sharon,Flores,SharonFlores@meridianpharma.com,DC016,Pharmacist Liaison,2019-03-15,80950.61
+EMP0665,David,Jackson,DavidJackson@meridianpharma.com,DC013,Cashier,2020-02-03,36523.85
+EMP0666,Steven,Carter,StevenCarter@meridianpharma.com,DC004,Shift Supervisor,2018-04-26,52636.66
+EMP0667,Jack,Jones,JackJones@meridianpharma.com,DC024,Cashier,2019-11-05,38991.7
+EMP0668,Stephanie,Flores,StephanieFlores@meridianpharma.com,DC006,Sales Associate,2022-05-09,61261.06
+EMP0669,Steven,Morris,StevenMorris@meridianpharma.com,DC007,Pharmacist Liaison,2023-12-15,64249.07
+EMP0670,Joseph,Walker,JosephWalker@meridianpharma.com,DC011,Sales Associate,2015-11-17,58657.91
+EMP0671,Ronald,Young,RonaldYoung@meridianpharma.com,DC999,Account Representative,2021-09-20,64579.13
+EMP0672,Barbara,Young,BarbaraYoung@meridianpharma.com,DC003,Pharmacist Liaison,2024-06-09,88013.98
+EMP0673,Linda,Davis,LindaDavis@meridianpharma.com,DC005,Cashier,2015-05-31,36746.82
+EMP0674,Pamela,Hall,PamelaHall@meridianpharma.com,DC015,Shift Supervisor,2014-03-29,51288.16
+EMP0675,Sarah,Allen,SarahAllen@meridianpharma.com,DC016,Account Representative,2020-04-08,58142.16
+EMP0676,Matthew,Reed,MatthewReed@meridianpharma.com,DC012,Pharmacist Liaison,2022-03-19,75031.42
+EMP0677,Scott,Peterson,ScottPeterson@meridianpharma.com,DC017,Inventory Clerk,2019-01-15,37185.93
+EMP0678,George,Collins,GeorgeCollins@meridianpharma.com,,Logistics Coordinator,2022-03-25,
+EMP0679,George,Richardson,GeorgeRichardson@meridianpharma.com,DC024,Cashier,2021-05-20,42786.26
+EMP0680,Matthew,Ortiz,MatthewOrtiz@meridianpharma.com,DC018,Inventory Clerk,2020-11-16,37014.71
+EMP0681,Carol,Anderson,CarolAnderson@meridianpharma.com,DC022,Cashier,2014-06-29,41123.44
+EMP0682,John,Sanchez,JohnSanchez@meridianpharma.com,DC007,Cashier,2014-05-11,37794.75
+EMP0683,Gregory,Morales,GregoryMorales@meridianpharma.com,DC023,Store Manager,2014-07-21,66519.23
+EMP0684,Elizabeth,Johnson,ElizabethJohnson@meridianpharma.com,DC007,Account Representative,2024-05-30,70846.53
+EMP0685,Katherine,Davis,KatherineDavis@meridianpharma.com,DC024,Logistics Coordinator,2023-03-22,56792.09
+EMP0686,Brandon,Wright,BrandonWright@meridianpharma.com,DC024,Cashier,2023-05-11,34429.2
+EMP0687,Eric,Gonzalez,EricGonzalez@meridianpharma.com,DC008,Logistics Coordinator,2016-02-16,53220.32
+EMP0688,Larry,Thompson,LarryThompson@meridianpharma.com,DC018,Logistics Coordinator,2022-05-15,51441.94
+EMP0689,Melissa,Collins,MelissaCollins@meridianpharma.com,DC014,Cashier,2015-11-15,40585.02
+EMP0690,Nicholas,Baker,NicholasBaker@meridianpharma.com,DC018,Account Representative,2024-06-20,59372.12
+EMP0691,Carol,Mitchell,CarolMitchell@meridianpharma.com,DC021,Logistics Coordinator,2023-04-07,64035.11
+EMP0692,Larry,Cooper,LarryCooper@meridianpharma.com,DC018,Store Manager,2018-01-14,80687.31
+EMP0693,Ronald,Smith,RonaldSmith@meridianpharma.com,DC010,Sales Associate,2019-10-22,46658.56
+EMP0694,James,Hill,JamesHill@meridianpharma.com,DC007,Pharmacist Liaison,2014-03-30,82882.45
+EMP0695,Emily,Peterson,EmilyPeterson@meridianpharma.com,DC019,Inventory Clerk,2015-01-22,33665.1
+EMP0696,Sarah,King,SarahKing@meridianpharma.com,DC019,Shift Supervisor,2016-08-12,44165.21
+EMP0697,Emma,Phillips,EmmaPhillips@meridianpharma.com,DC007,Cashier,2022-02-11,34691.12
+EMP0698,Gary,Kelly,GaryKelly@meridianpharma.com,DC004,Store Manager,2014-06-03,75192.79
+EMP0699,David,Davis,DavidDavis@meridianpharma.com,DC011,Pharmacist Liaison,2023-11-13,84063.97
+EMP0700,Jessica,Robinson,JessicaRobinson@meridianpharma.com,DC020,Sales Associate,2021-02-09,58349.02
+EMP0701,Michelle,Ortiz,MichelleOrtiz@meridianpharma.com,DC018,Inventory Clerk,2017-08-31,40007.78
+EMP0702,Michael,Gomez,MichaelGomez@meridianpharma.com,DC020,Cashier,2016-06-28,36042.39
+EMP0703,Charles,Taylor,CharlesTaylor@meridianpharma.com,DC016,Sales Associate,2020-02-24,51465.28
+EMP0704,Nicholas,Parker,NicholasParker@meridianpharma.com,DC005,Inventory Clerk,2019-05-24,40784.39
+EMP0705,Christine,Kelly,ChristineKelly@meridianpharma.com,DC020,Shift Supervisor,2016-09-19,41128.54
+EMP0706,Carol,Kelly,CarolKelly@meridianpharma.com,DC022,Logistics Coordinator,2018-10-01,56714.93
+EMP0707,Brian,Kim,BrianKim@meridianpharma.com,DC010,Inventory Clerk,2017-12-03,41561.42
+EMP0708,Jeffrey,Richardson,JeffreyRichardson@meridianpharma.com,DC002,Shift Supervisor,2016-03-28,51224.16
+EMP0709,Catherine,Hernandez,CatherineHernandez@meridianpharma.com,DC002,Shift Supervisor,2024-08-22,50165.49
+EMP0710,Andrew,Johnson,AndrewJohnson@meridianpharma.com,DC004,Store Manager,2019-01-18,69014.33
+EMP0711,Jack,Morgan,JackMorgan@meridianpharma.com,DC018,Store Manager,2020-02-26,69296.03
+EMP0712,Charles,Williams,CharlesWilliams@meridianpharma.com,DC022,Sales Associate,2016-11-12,47299.82
+EMP0713,Carolyn,Richardson,CarolynRichardson@meridianpharma.com,DC015,Sales Associate,2014-09-30,51273.34
+EMP0714,Gregory,Campbell,GregoryCampbell@meridianpharma.com,DC001,Store Manager,2023-09-23,78824.98
+EMP0715,Timothy,Rogers,TimothyRogers@meridianpharma.com,DC004,Pharmacist Liaison,2019-06-09,85349.41
+EMP0716,Lisa,Sanchez,LisaSanchez@meridianpharma.com,DC015,Sales Associate,2014-06-12,48702.54
+EMP0717,Kevin,Morales,KevinMorales@meridianpharma.com,DC006,Sales Associate,2017-11-21,56654.47
+EMP0718,Joshua,Walker,JoshuaWalker@meridianpharma.com,DC017,Store Manager,2023-02-08,59275.83
+EMP0719,Stephanie,Brown,StephanieBrown@meridianpharma.com,DC009,Shift Supervisor,2015-09-14,45572.38
+EMP0720,Sarah,Lopez,SarahLopez@meridianpharma.com,DC017,Shift Supervisor,2018-09-06,43903.94
+EMP0721,Michelle,Cox,MichelleCox@meridianpharma.com,DC018,Inventory Clerk,2016-04-26,42056.25
+EMP0722,Rachel,Sanchez,RachelSanchez@meridianpharma.com,DC010,Inventory Clerk,2018-10-28,46741.11
+EMP0723,Charles,Reed,CharlesReed@meridianpharma.com,DC011,Cashier,2020-04-01,37315.32
+EMP0724,Lisa,Green,LisaGreen@meridianpharma.com,DC005,Sales Associate,2022-08-02,50000.11
+EMP0725,Jason,Hill,JasonHill@meridianpharma.com,DC021,Store Manager,2015-09-15,76342.77
+EMP0726,Lisa,Brown,LisaBrown@meridianpharma.com,DC020,Store Manager,2020-10-16,71295.63
+EMP0727,Sandra,Robinson,SandraRobinson@meridianpharma.com,DC012,Cashier,2021-09-19,40425.81
+EMP0728,Helen,Stewart,HelenStewart@meridianpharma.com,DC012,Inventory Clerk,2023-07-23,38438.83
+EMP0729,Christopher,Harris,ChristopherHarris@meridianpharma.com,DC014,Sales Associate,2024-05-18,49111.43
+EMP0730,Maria,Sanchez,MariaSanchez@meridianpharma.com,DC003,Inventory Clerk,2024-05-25,46181.64
+EMP0731,Brandon,Morales,BrandonMorales@meridianpharma.com,DC015,Shift Supervisor,2018-10-18,46610.06
+EMP0732,Jack,Carter,JackCarter@meridianpharma.com,DC013,Sales Associate,2019-11-03,46189.56
+EMP0733,Jennifer,Young,JenniferYoung@meridianpharma.com,DC013,Sales Associate,2020-04-03,51250.64
+EMP0734,Michael,Harris,MichaelHarris@meridianpharma.com,DC013,Store Manager,2022-09-04,77497.38
+EMP0735,Edward,Nguyen,EdwardNguyen@meridianpharma.com,DC002,Inventory Clerk,2019-03-14,44478.05
+EMP0736,Patrick,Cook,PatrickCook@meridianpharma.com,DC019,Inventory Clerk,2018-05-30,38795.08
+EMP0737,Daniel,Collins,DanielCollins@meridianpharma.com,DC023,Shift Supervisor,2023-11-24,47429.54
+EMP0738,Alexander,Lee,AlexanderLee@meridianpharma.com,DC004,Cashier,2015-04-13,39498.46
+EMP0739,David,Ortiz,DavidOrtiz@meridianpharma.com,DC024,Inventory Clerk,2018-04-01,40662.22
+EMP0740,Nancy,Nelson,NancyNelson@meridianpharma.com,DC022,Inventory Clerk,2015-10-27,45009.37
+EMP0741,Janet,Miller,JanetMiller@meridianpharma.com,DC010,Account Representative,2017-03-28,65224.77
+EMP0742,Thomas,Sanchez,ThomasSanchez@meridianpharma.com,DC0,Sales Associate,2019-02-22,53256.82
+EMP0743,James,Cox,JamesCox@meridianpharma.com,DC008,Shift Supervisor,2020-08-08,50798.29
+EMP0744,Jeffrey,Hernandez,JeffreyHernandez@meridianpharma.com,DC001,Shift Supervisor,2023-11-23,48953.77
+EMP0745,Pamela,Clark,PamelaClark@meridianpharma.com,DC005,Sales Associate,2021-04-29,50552.16
+EMP0746,John,Kelly,JohnKelly@meridianpharma.com,DC010,Pharmacist Liaison,2024-04-27,65171.5
+EMP0747,Daniel,Lee,DanielLee@meridianpharma.com,DC020,Inventory Clerk,2024-11-01,39365.36
+EMP0748,John,Lopez,JohnLopez@meridianpharma.com,DC011,Pharmacist Liaison,2024-01-25,72714.53
+EMP0749,Edward,Peterson,EdwardPeterson@meridianpharma.com,DC016,Inventory Clerk,2015-05-15,42631.56
+EMP0750,Anna,Evans,AnnaEvans@meridianpharma.com,DC023,Shift Supervisor,2020-11-11,40907.14
+EMP0751,Benjamin,Ortiz,BenjaminOrtiz@meridianpharma.com,DC016,Store Manager,2018-10-16,72290.5
+EMP0752,Anna,Kelly,AnnaKelly@meridianpharma.com,DC012,Inventory Clerk,2020-11-21,40829.96
+EMP0753,Benjamin,Murphy,BenjaminMurphy@meridianpharma.com,DC006,Shift Supervisor,2021-12-12,44728.53
+EMP0754,Jessica,Brown,JessicaBrown@meridianpharma.com,DC004,Shift Supervisor,2022-12-20,50071.82
+EMP0755,Jennifer,Nelson,JenniferNelson@meridianpharma.com,DC021,Shift Supervisor,2014-02-16,50488.17
+EMP0756,Steven,Rodriguez,StevenRodriguez@meridianpharma.com,DC017,Pharmacist Liaison,2022-08-08,63058.8
+EMP0757,Amanda,Gomez,AmandaGomez@meridianpharma.com,DC020,Sales Associate,2023-05-02,47396.45
+EMP0758,Amanda,Morris,AmandaMorris@meridianpharma.com,DC002,Inventory Clerk,2019-05-27,35271.02
+EMP0759,Jonathan,Nelson,JonathanNelson@meridianpharma.com,DC014,Sales Associate,2023-05-14,53683.53
+EMP0760,Frank,Green,FrankGreen@meridianpharma.com,DC001,Shift Supervisor,2020-06-23,51226.36
+EMP0761,Melissa,Rodriguez,MelissaRodriguez@meridianpharma.com,DC009,Sales Associate,2017-10-21,62101.86
+EMP0762,Nancy,Kelly,NancyKelly@meridianpharma.com,DC006,Cashier,2023-09-12,40457.53
+EMP0763,Kenneth,Jones,KennethJones@meridianpharma.com,DC003,Account Representative,2023-11-02,56923.66
+EMP0764,Joshua,Ramirez,JoshuaRamirez@meridianpharma.com,DC006,Cashier,2018-03-13,40490.29
+EMP0765,Barbara,Cruz,BarbaraCruz@meridianpharma.com,DC016,Inventory Clerk,2016-02-19,37792.58
+EMP0766,Anna,Flores,AnnaFlores@meridianpharma.com,DC005,Cashier,2023-03-22,42976.65
+EMP0767,Thomas,Clark,ThomasClark@meridianpharma.com,DC015,Logistics Coordinator,2022-01-02,66855.65
+EMP0768,Michelle,Garcia,MichelleGarcia@meridianpharma.com,DC020,Cashier,2017-09-27,36482.64
+EMP0769,Eric,Flores,EricFlores@meridianpharma.com,DC0,Shift Supervisor,2017-08-07,43249.14
+EMP0770,Jonathan,Green,JonathanGreen@meridianpharma.com,DC022,Cashier,2017-01-21,32481.44
+EMP0771,Mary,Richardson,MaryRichardson@meridianpharma.com,DC004,Shift Supervisor,2020-02-01,45712.73
+EMP0772,Charles,Torres,CharlesTorres@meridianpharma.com,DC006,Cashier,2017-06-29,38327.11
+EMP0773,Jeffrey,Miller,JeffreyMiller@meridianpharma.com,DC016,Sales Associate,2015-03-10,51181.51
+EMP0774,Ronald,Thompson,RonaldThompson@meridianpharma.com,DC019,Account Representative,2020-11-29,59442.58
+EMP0775,Betty,Morgan,BettyMorgan@meridianpharma.com,DC015,Inventory Clerk,2015-01-16,44245.42
+EMP0776,Kathleen,Gonzalez,KathleenGonzalez@meridianpharma.com,DC022,Account Representative,2019-04-12,56796.67
+EMP0777,Brandon,King,BrandonKing@meridianpharma.com,DC013,Inventory Clerk,2021-11-05,45670.66
+EMP0778,Carol,Collins,CarolCollins@meridianpharma.com,DC003,Account Representative,2015-04-08,59353.26
+EMP0779,Nancy,Torres,NancyTorres@meridianpharma.com,DC020,Inventory Clerk,2019-09-12,34555.02
+EMP0780,Susan,Adams,SusanAdams@meridianpharma.com,DC003,Store Manager,2019-12-23,68771.2
+EMP0781,Donald,Richardson,DonaldRichardson@meridianpharma.com,DC006,Account Representative,2018-04-22,53260.38
+EMP0782,Alexander,Ramos,AlexanderRamos@meridianpharma.com,DC014,Pharmacist Liaison,2020-02-09,80878.05
+EMP0783,Debra,Martinez,DebraMartinez@meridianpharma.com,DC023,Account Representative,2015-04-14,64492.68
+EMP0784,Pamela,Gonzalez,PamelaGonzalez@meridianpharma.com,DC006,Store Manager,2024-09-20,67457.89
+EMP0785,Rachel,Kim,RachelKim@meridianpharma.com,DC013,Pharmacist Liaison,2019-07-18,79605.22
+EMP0786,Margaret,Moore,MargaretMoore@meridianpharma.com,DC021,Sales Associate,2022-06-28,46870.4
+EMP0787,Jonathan,Nguyen,JonathanNguyen@meridianpharma.com,DC019,Account Representative,2016-03-12,56240.88
+EMP0788,Joshua,Reed,JoshuaReed@meridianpharma.com,DC022,Store Manager,2024-04-20,80251.33
+EMP0789,Brian,Lopez,BrianLopez@meridianpharma.com,DC020,Logistics Coordinator,2023-07-04,51889.38
+EMP0790,Deborah,Peterson,DeborahPeterson@meridianpharma.com,DC001,Pharmacist Liaison,2015-03-26,85206.32
+EMP0791,Donald,Parker,DonaldParker@meridianpharma.com,DC013,Pharmacist Liaison,2021-12-25,72814.25
+EMP0792,Brenda,Ramirez,BrendaRamirez@meridianpharma.com,DC016,Inventory Clerk,2016-02-10,40731.5
+EMP0793,George,Turner,GeorgeTurner@meridianpharma.com,DC022,Inventory Clerk,2015-07-05,33308.38
+EMP0794,Charles,Morales,CharlesMorales@meridianpharma.com,DC005,Cashier,2015-07-17,38692.26
+EMP0795,Ryan,Cox,RyanCox@meridianpharma.com,DC020,Inventory Clerk,2019-02-05,40103.51
+EMP0796,Cynthia,Roberts,CynthiaRoberts@meridianpharma.com,DC006,Logistics Coordinator,2020-10-12,49450.83
+EMP0797,Catherine,Walker,CatherineWalker@meridianpharma.com,DC009,Logistics Coordinator,2024-05-23,60387.18
+EMP0798,John,Reed,JohnReed@meridianpharma.com,DC012,Cashier,2020-07-04,36667.31
+EMP0799,Charles,Ortiz,CharlesOrtiz@meridianpharma.com,DC009,Account Representative,2019-10-19,53520.31
+EMP0800,Barbara,Young,BarbaraYoung@meridianpharma.com,DC024,Cashier,2021-09-02,38584.46
